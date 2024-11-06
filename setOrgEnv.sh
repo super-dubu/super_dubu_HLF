@@ -2,7 +2,10 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-
+export PATH=/home/superDUBU/hyperledger/dubunet/bin:$PATH
+export FABRIC_CFG_PATH=/home/superDUBU/hyperledger/dubunet/config
+export GOPATH=/home/superDUBU/hyperledger/dubunet/dubu/chaincode
+export CORE_PEER_TLS_ENABLED=true
 
 
 # default to using Org1
