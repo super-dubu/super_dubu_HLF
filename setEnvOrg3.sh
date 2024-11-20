@@ -7,7 +7,7 @@ export GOPATH=/home/superDUBU/hyperledger/dubunet/dubu/chaincode
 export CORE_PEER_TLS_ENABLED=true
 
 
-export CORE_PEER_LOCALMSPID=org3MSP
+export CORE_PEER_LOCALMSPID=Org3MSP
 export CORE_PEER_TLS_ROOTCERT_FILE=/home/superDUBU/hyperledger/dubunet/dubu/organizations/peerOrganizations/org3.dubu.com/peers/peer0.org3.dubu.com/tls/ca.crt
 export CORE_PEER_MSPCONFIGPATH=/home/superDUBU/hyperledger/dubunet/dubu/organizations/peerOrganizations/org3.dubu.com/users/Admin@org3.dubu.com/msp
 export CORE_PEER_ADDRESS=localhost:11051

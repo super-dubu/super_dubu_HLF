@@ -21,10 +21,10 @@ type BuildingInfo struct {
 	BuildingAddress string `json:"buildingAddress"`
 	Area            string `json:"area"`
 	BuildingPrice   string `json:"buildingPrice"`
-	BuildingType    int    `json:"buildingType"`
 	FloorInfo       string `json:"floorInfo"`
 	RoomCount       string `json:"roomCount"`
 	ConfirmDate     string `json:"comfirmDate"`
+  Owner           string `json:"owner"`
 }
 
 // InitLedger adds a base set of assets to the ledger
@@ -57,7 +57,7 @@ func (s *SmartContract) InitLedger(ctx contractapi.TransactionContextInterface) 
 }
 
 // CreateBuildingInfo issues a new asset to the world state with given details.
-func (s *SmartContract) CreateBuildingInfo(ctx contractapi.TransactionContextInterface, id, name, hosu, address, area, price, floor, room, date string, buildingType int) error {
+func (s *SmartContract) CreateBuildingInfo(ctx contractapi.TransactionContextInterface, owner, id, name, hosu, address, area, price, floor, room, date string) error {
     exists, err := s.BuildingInfoExists(ctx, id)
     if err != nil {
         return err
@@ -73,10 +73,10 @@ func (s *SmartContract) CreateBuildingInfo(ctx contractapi.TransactionContextInt
       BuildingAddress: address,
       Area:            area,
       BuildingPrice:   price,
-      BuildingType:    buildingType,
       FloorInfo:       floor,
-      RoomCount:      room,
+      RoomCount:       room,
       ConfirmDate:     date,
+      Owner:           owner,
     }
     assetJSON, err := json.Marshal(asset)
     if err != nil {
@@ -107,7 +107,7 @@ func (s *SmartContract) ReadBuildingInfo(ctx contractapi.TransactionContextInter
 }
 
 // UpdateBuildingInfo updates an existing asset in the world state with provided parameters.
-func (s *SmartContract) UpdateBuildingInfo(ctx contractapi.TransactionContextInterface, id, name, hosu, address, area, price, floor, room, date string, buildingType int) error {
+func (s *SmartContract) UpdateBuildingInfo(ctx contractapi.TransactionContextInterface, id, name, hosu, address, area, price, floor, room, date, owner string) error {
     exists, err := s.BuildingInfoExists(ctx, id)
     if err != nil {
         return err
@@ -124,10 +124,10 @@ func (s *SmartContract) UpdateBuildingInfo(ctx contractapi.TransactionContextInt
       BuildingAddress: address,
       Area:            area,
       BuildingPrice:   price,
-      BuildingType:    buildingType,
       FloorInfo:       floor,
       RoomCount:       room,
       ConfirmDate:     date,
+      Owner:           owner,
     }
     assetJSON, err := json.Marshal(asset)
     if err != nil {

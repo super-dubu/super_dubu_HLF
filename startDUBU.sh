@@ -114,3 +114,5 @@ peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.dub
 
 # Init buildingInfo
 peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.dubu.com --tls --cafile "/home/superDUBU/hyperledger/dubunet/dubu/organizations/ordererOrganizations/dubu.com/orderers/orderer.dubu.com/msp/tlscacerts/tlsca.dubu.com-cert.pem" -C dubu -n buildingInfo --peerAddresses localhost:9051 --tlsRootCertFiles "/home/superDUBU/hyperledger/dubunet/dubu/organizations/peerOrganizations/org2.dubu.com/peers/peer0.org2.dubu.com/tls/ca.crt" --peerAddresses localhost:11051 --tlsRootCertFiles "/home/superDUBU/hyperledger/dubunet/dubu/organizations/peerOrganizations/org3.dubu.com/peers/peer0.org3.dubu.com/tls/ca.crt" -c '{"function":"InitLedger","Args":[]}'
+
+chmod 774 -R organizations
