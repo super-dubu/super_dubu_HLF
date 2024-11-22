@@ -13,3 +13,9 @@ organizations/peerOrganizations/*
 system-genesis-block/*
 *.tar.gz
 log.txt
+*.json
+*.tar*
+chaincode/agentInfo/vendor/
+chaincode/nationalID/vendor/
+chaincode/buildingInfo/vendor/
+chaincode/bank/vendor/

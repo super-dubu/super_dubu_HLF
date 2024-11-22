@@ -23,7 +23,7 @@ type BuildingInfo struct {
 	BuildingPrice   string `json:"buildingPrice"`
 	FloorInfo       string `json:"floorInfo"`
 	RoomCount       string `json:"roomCount"`
-	ConfirmDate     string `json:"comfirmDate"`
+	ConfirmDate     string `json:"confirmDate"`
   Owner           string `json:"owner"`
 }
 

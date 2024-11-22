@@ -8,7 +8,7 @@
     "buildingPrice": "8010000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2020-10-06",
+    "confirmDate": "2020-10-06",
     "owner": "이계복"
   },
   {
@@ -20,7 +20,7 @@
     "buildingPrice": "1680000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2024-10-17",
+    "confirmDate": "2024-10-17",
     "owner": "유태선"
   },
   {
@@ -32,7 +32,7 @@
     "buildingPrice": "209000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2015-12-29",
+    "confirmDate": "2015-12-29",
     "owner": "장갑수"
   },
   {
@@ -44,7 +44,7 @@
     "buildingPrice": "8140000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2020-07-30",
+    "confirmDate": "2020-07-30",
     "owner": "장홍석"
   },
   {
@@ -56,7 +56,7 @@
     "buildingPrice": "758000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2006-11-20",
+    "confirmDate": "2006-11-20",
     "owner": "김정상"
   },
   {
@@ -68,7 +68,7 @@
     "buildingPrice": "2790000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2001-04-24",
+    "confirmDate": "2001-04-24",
     "owner": "최은숙"
   },
   {
@@ -80,7 +80,7 @@
     "buildingPrice": "4920000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2022-02-06",
+    "confirmDate": "2022-02-06",
     "owner": "김성은"
   },
   {
@@ -92,7 +92,7 @@
     "buildingPrice": "2810000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2014-03-21",
+    "confirmDate": "2014-03-21",
     "owner": "위현숙"
   },
   {
@@ -104,7 +104,7 @@
     "buildingPrice": "659000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2007-09-27",
+    "confirmDate": "2007-09-27",
     "owner": "김정수"
   },
   {
@@ -116,7 +116,7 @@
     "buildingPrice": "764000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2018-09-13",
+    "confirmDate": "2018-09-13",
     "owner": "김인기"
   },
   {
@@ -128,7 +128,7 @@
     "buildingPrice": "6610000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2020-09-15",
+    "confirmDate": "2020-09-15",
     "owner": "조중현"
   },
   {
@@ -140,7 +140,7 @@
     "buildingPrice": "7230000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2002-10-10",
+    "confirmDate": "2002-10-10",
     "owner": "박성민"
   },
   {
@@ -152,7 +152,7 @@
     "buildingPrice": "374000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2006-05-30",
+    "confirmDate": "2006-05-30",
     "owner": "최정오"
   },
   {
@@ -164,7 +164,7 @@
     "buildingPrice": "9090000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2007-03-13",
+    "confirmDate": "2007-03-13",
     "owner": "손주열"
   },
   {
@@ -176,7 +176,7 @@
     "buildingPrice": "5610000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2008-10-28",
+    "confirmDate": "2008-10-28",
     "owner": "이동순"
   },
   {
@@ -188,7 +188,7 @@
     "buildingPrice": "675000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2003-09-23",
+    "confirmDate": "2003-09-23",
     "owner": "이학영"
   },
   {
@@ -200,7 +200,7 @@
     "buildingPrice": "461000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2008-08-30",
+    "confirmDate": "2008-08-30",
     "owner": "장태현"
   },
   {
@@ -212,7 +212,7 @@
     "buildingPrice": "6330000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2006-06-22",
+    "confirmDate": "2006-06-22",
     "owner": "박동춘"
   },
   {
@@ -224,7 +224,7 @@
     "buildingPrice": "3150000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2020-01-22",
+    "confirmDate": "2020-01-22",
     "owner": "오문택"
   },
   {
@@ -236,7 +236,7 @@
     "buildingPrice": "1920000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2002-11-21",
+    "confirmDate": "2002-11-21",
     "owner": "신애리"
   },
   {
@@ -248,7 +248,7 @@
     "buildingPrice": "9390000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2016-12-27",
+    "confirmDate": "2016-12-27",
     "owner": "남미숙"
   },
   {
@@ -260,7 +260,7 @@
     "buildingPrice": "1390000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2005-07-23",
+    "confirmDate": "2005-07-23",
     "owner": "김선애"
   },
   {
@@ -272,7 +272,7 @@
     "buildingPrice": "7780000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2024-02-01",
+    "confirmDate": "2024-02-01",
     "owner": "황선영"
   },
   {
@@ -284,7 +284,7 @@
     "buildingPrice": "973000",
     "floorInfo": "1",
     "roomCount": "3",
-    "comfirmDate": "2022-05-06",
+    "confirmDate": "2022-05-06",
     "owner": "홍성필"
   },
   {
@@ -296,7 +296,7 @@
     "buildingPrice": "8500000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2016-10-07",
+    "confirmDate": "2016-10-07",
     "owner": "박준현"
   },
   {
@@ -308,7 +308,7 @@
     "buildingPrice": "657000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2005-03-16",
+    "confirmDate": "2005-03-16",
     "owner": "최승욱"
   },
   {
@@ -320,7 +320,7 @@
     "buildingPrice": "765000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2017-12-02",
+    "confirmDate": "2017-12-02",
     "owner": "엄소현"
   },
   {
@@ -332,7 +332,7 @@
     "buildingPrice": "596000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2010-01-31",
+    "confirmDate": "2010-01-31",
     "owner": "서정복"
   },
   {
@@ -344,7 +344,7 @@
     "buildingPrice": "3190000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2005-01-11",
+    "confirmDate": "2005-01-11",
     "owner": "안상순"
   },
   {
@@ -356,7 +356,7 @@
     "buildingPrice": "5950000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2002-10-15",
+    "confirmDate": "2002-10-15",
     "owner": "최명숙"
   },
   {
@@ -368,7 +368,7 @@
     "buildingPrice": "476000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2020-06-22",
+    "confirmDate": "2020-06-22",
     "owner": "김경화"
   },
   {
@@ -380,7 +380,7 @@
     "buildingPrice": "428000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2023-10-09",
+    "confirmDate": "2023-10-09",
     "owner": "유영대"
   },
   {
@@ -392,7 +392,7 @@
     "buildingPrice": "606000",
     "floorInfo": "10",
     "roomCount": "4",
-    "comfirmDate": "2020-01-22",
+    "confirmDate": "2020-01-22",
     "owner": "최우석"
   },
   {
@@ -404,7 +404,7 @@
     "buildingPrice": "456000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2003-06-24",
+    "confirmDate": "2003-06-24",
     "owner": "박현정"
   },
   {
@@ -416,7 +416,7 @@
     "buildingPrice": "3580000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2018-03-17",
+    "confirmDate": "2018-03-17",
     "owner": "김영기"
   },
   {
@@ -428,7 +428,7 @@
     "buildingPrice": "201000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2024-05-14",
+    "confirmDate": "2024-05-14",
     "owner": "하수완"
   },
   {
@@ -440,7 +440,7 @@
     "buildingPrice": "196000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2022-03-07",
+    "confirmDate": "2022-03-07",
     "owner": "지유정"
   },
   {
@@ -452,7 +452,7 @@
     "buildingPrice": "8210000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2023-07-12",
+    "confirmDate": "2023-07-12",
     "owner": "이길한"
   },
   {
@@ -464,7 +464,7 @@
     "buildingPrice": "3140000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2015-09-27",
+    "confirmDate": "2015-09-27",
     "owner": "최재성"
   },
   {
@@ -476,7 +476,7 @@
     "buildingPrice": "738000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2018-05-07",
+    "confirmDate": "2018-05-07",
     "owner": "최은정"
   },
   {
@@ -488,7 +488,7 @@
     "buildingPrice": "4120000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2010-06-19",
+    "confirmDate": "2010-06-19",
     "owner": "김연주"
   },
   {
@@ -500,7 +500,7 @@
     "buildingPrice": "9770000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2000-05-27",
+    "confirmDate": "2000-05-27",
     "owner": "한철경"
   },
   {
@@ -512,7 +512,7 @@
     "buildingPrice": "817000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2013-04-26",
+    "confirmDate": "2013-04-26",
     "owner": "권은영"
   },
   {
@@ -524,7 +524,7 @@
     "buildingPrice": "5990000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2019-06-04",
+    "confirmDate": "2019-06-04",
     "owner": "유원옥"
   },
   {
@@ -536,7 +536,7 @@
     "buildingPrice": "620000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2001-03-16",
+    "confirmDate": "2001-03-16",
     "owner": "이용곤"
   },
   {
@@ -548,7 +548,7 @@
     "buildingPrice": "6150000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2003-08-25",
+    "confirmDate": "2003-08-25",
     "owner": "김신혜"
   },
   {
@@ -560,7 +560,7 @@
     "buildingPrice": "773000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2008-09-25",
+    "confirmDate": "2008-09-25",
     "owner": "안상현"
   },
   {
@@ -572,7 +572,7 @@
     "buildingPrice": "119000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2022-12-09",
+    "confirmDate": "2022-12-09",
     "owner": "유소진"
   },
   {
@@ -584,7 +584,7 @@
     "buildingPrice": "4720000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2010-02-21",
+    "confirmDate": "2010-02-21",
     "owner": "정운봉"
   },
   {
@@ -596,7 +596,7 @@
     "buildingPrice": "268000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2006-07-18",
+    "confirmDate": "2006-07-18",
     "owner": "한기두"
   },
   {
@@ -608,7 +608,7 @@
     "buildingPrice": "9350000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2010-06-17",
+    "confirmDate": "2010-06-17",
     "owner": "홍은희"
   },
   {
@@ -620,7 +620,7 @@
     "buildingPrice": "6190000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2024-08-13",
+    "confirmDate": "2024-08-13",
     "owner": "백태현"
   },
   {
@@ -632,7 +632,7 @@
     "buildingPrice": "4870000",
     "floorInfo": "9",
     "roomCount": "2",
-    "comfirmDate": "2006-03-16",
+    "confirmDate": "2006-03-16",
     "owner": "김창범"
   },
   {
@@ -644,7 +644,7 @@
     "buildingPrice": "753000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2020-02-07",
+    "confirmDate": "2020-02-07",
     "owner": "서현수"
   },
   {
@@ -656,7 +656,7 @@
     "buildingPrice": "5270000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2016-03-13",
+    "confirmDate": "2016-03-13",
     "owner": "홍영해"
   },
   {
@@ -668,7 +668,7 @@
     "buildingPrice": "712000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2020-06-05",
+    "confirmDate": "2020-06-05",
     "owner": "장옥주"
   },
   {
@@ -680,7 +680,7 @@
     "buildingPrice": "6320000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2000-01-11",
+    "confirmDate": "2000-01-11",
     "owner": "임옥희"
   },
   {
@@ -692,7 +692,7 @@
     "buildingPrice": "3940000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2003-07-22",
+    "confirmDate": "2003-07-22",
     "owner": "구성회"
   },
   {
@@ -704,7 +704,7 @@
     "buildingPrice": "9580000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2015-04-23",
+    "confirmDate": "2015-04-23",
     "owner": "박중상"
   },
   {
@@ -716,7 +716,7 @@
     "buildingPrice": "6260000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2012-01-21",
+    "confirmDate": "2012-01-21",
     "owner": "김양수"
   },
   {
@@ -728,7 +728,7 @@
     "buildingPrice": "636000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2009-10-29",
+    "confirmDate": "2009-10-29",
     "owner": "백승원"
   },
   {
@@ -740,7 +740,7 @@
     "buildingPrice": "789000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2020-01-16",
+    "confirmDate": "2020-01-16",
     "owner": "박창규"
   },
   {
@@ -752,7 +752,7 @@
     "buildingPrice": "645000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2015-09-03",
+    "confirmDate": "2015-09-03",
     "owner": "김순덕"
   },
   {
@@ -764,7 +764,7 @@
     "buildingPrice": "990000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2007-09-13",
+    "confirmDate": "2007-09-13",
     "owner": "권정원"
   },
   {
@@ -776,7 +776,7 @@
     "buildingPrice": "366000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2011-10-21",
+    "confirmDate": "2011-10-21",
     "owner": "전영신"
   },
   {
@@ -788,7 +788,7 @@
     "buildingPrice": "282000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2019-11-17",
+    "confirmDate": "2019-11-17",
     "owner": "김미애"
   },
   {
@@ -800,7 +800,7 @@
     "buildingPrice": "6180000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2007-07-24",
+    "confirmDate": "2007-07-24",
     "owner": "박송호"
   },
   {
@@ -812,7 +812,7 @@
     "buildingPrice": "579000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2023-04-16",
+    "confirmDate": "2023-04-16",
     "owner": "김명국"
   },
   {
@@ -824,7 +824,7 @@
     "buildingPrice": "487000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2014-03-14",
+    "confirmDate": "2014-03-14",
     "owner": "박경자"
   },
   {
@@ -836,7 +836,7 @@
     "buildingPrice": "584000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2024-05-10",
+    "confirmDate": "2024-05-10",
     "owner": "이인애"
   },
   {
@@ -848,7 +848,7 @@
     "buildingPrice": "4000000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2016-04-05",
+    "confirmDate": "2016-04-05",
     "owner": "이종윤"
   },
   {
@@ -860,7 +860,7 @@
     "buildingPrice": "658000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2006-08-16",
+    "confirmDate": "2006-08-16",
     "owner": "배명숙"
   },
   {
@@ -872,7 +872,7 @@
     "buildingPrice": "430000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2019-12-08",
+    "confirmDate": "2019-12-08",
     "owner": "서동환"
   },
   {
@@ -884,7 +884,7 @@
     "buildingPrice": "9070000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2008-11-16",
+    "confirmDate": "2008-11-16",
     "owner": "김미향"
   },
   {
@@ -896,7 +896,7 @@
     "buildingPrice": "1400000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2003-08-04",
+    "confirmDate": "2003-08-04",
     "owner": "정숙"
   },
   {
@@ -908,7 +908,7 @@
     "buildingPrice": "645000",
     "floorInfo": "9",
     "roomCount": "1",
-    "comfirmDate": "2015-07-13",
+    "confirmDate": "2015-07-13",
     "owner": "김태헌"
   },
   {
@@ -920,7 +920,7 @@
     "buildingPrice": "2250000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2003-03-17",
+    "confirmDate": "2003-03-17",
     "owner": "윤자익"
   },
   {
@@ -932,7 +932,7 @@
     "buildingPrice": "4290000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2010-06-19",
+    "confirmDate": "2010-06-19",
     "owner": "민동욱"
   },
   {
@@ -944,7 +944,7 @@
     "buildingPrice": "3020000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2002-02-19",
+    "confirmDate": "2002-02-19",
     "owner": "김도영"
   },
   {
@@ -956,7 +956,7 @@
     "buildingPrice": "716000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2006-08-11",
+    "confirmDate": "2006-08-11",
     "owner": "이승희"
   },
   {
@@ -968,7 +968,7 @@
     "buildingPrice": "7930000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2022-02-14",
+    "confirmDate": "2022-02-14",
     "owner": "윤서연"
   },
   {
@@ -980,7 +980,7 @@
     "buildingPrice": "1470000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2009-10-09",
+    "confirmDate": "2009-10-09",
     "owner": "김훈"
   },
   {
@@ -992,7 +992,7 @@
     "buildingPrice": "9950000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2022-05-09",
+    "confirmDate": "2022-05-09",
     "owner": "민혜경"
   },
   {
@@ -1004,7 +1004,7 @@
     "buildingPrice": "4470000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2023-04-26",
+    "confirmDate": "2023-04-26",
     "owner": "이정균"
   },
   {
@@ -1016,7 +1016,7 @@
     "buildingPrice": "1070000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2010-05-05",
+    "confirmDate": "2010-05-05",
     "owner": "조진현"
   },
   {
@@ -1028,7 +1028,7 @@
     "buildingPrice": "389000",
     "floorInfo": "1",
     "roomCount": "3",
-    "comfirmDate": "2011-07-24",
+    "confirmDate": "2011-07-24",
     "owner": "이병구"
   },
   {
@@ -1040,7 +1040,7 @@
     "buildingPrice": "8370000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2009-12-11",
+    "confirmDate": "2009-12-11",
     "owner": "박해봉"
   },
   {
@@ -1052,7 +1052,7 @@
     "buildingPrice": "590000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2007-06-15",
+    "confirmDate": "2007-06-15",
     "owner": "박경희"
   },
   {
@@ -1064,7 +1064,7 @@
     "buildingPrice": "5150000",
     "floorInfo": "4",
     "roomCount": "3",
-    "comfirmDate": "2009-07-26",
+    "confirmDate": "2009-07-26",
     "owner": "이순옥"
   },
   {
@@ -1076,7 +1076,7 @@
     "buildingPrice": "651000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2019-11-21",
+    "confirmDate": "2019-11-21",
     "owner": "최문규"
   },
   {
@@ -1088,7 +1088,7 @@
     "buildingPrice": "1420000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2016-07-23",
+    "confirmDate": "2016-07-23",
     "owner": "홍순재"
   },
   {
@@ -1100,7 +1100,7 @@
     "buildingPrice": "482000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2011-10-06",
+    "confirmDate": "2011-10-06",
     "owner": "금창호"
   },
   {
@@ -1112,7 +1112,7 @@
     "buildingPrice": "516000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2015-11-20",
+    "confirmDate": "2015-11-20",
     "owner": "정동화"
   },
   {
@@ -1124,7 +1124,7 @@
     "buildingPrice": "843000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2002-10-20",
+    "confirmDate": "2002-10-20",
     "owner": "엄설아"
   },
   {
@@ -1136,7 +1136,7 @@
     "buildingPrice": "433000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2000-01-09",
+    "confirmDate": "2000-01-09",
     "owner": "장경례"
   },
   {
@@ -1148,7 +1148,7 @@
     "buildingPrice": "246000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2022-12-27",
+    "confirmDate": "2022-12-27",
     "owner": "도희정"
   },
   {
@@ -1160,7 +1160,7 @@
     "buildingPrice": "784000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2002-12-12",
+    "confirmDate": "2002-12-12",
     "owner": "이현국"
   },
   {
@@ -1172,7 +1172,7 @@
     "buildingPrice": "2420000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2010-09-28",
+    "confirmDate": "2010-09-28",
     "owner": "차혜현"
   },
   {
@@ -1184,7 +1184,7 @@
     "buildingPrice": "451000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2020-04-25",
+    "confirmDate": "2020-04-25",
     "owner": "조동국"
   },
   {
@@ -1196,7 +1196,7 @@
     "buildingPrice": "447000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2003-01-12",
+    "confirmDate": "2003-01-12",
     "owner": "이상희"
   },
   {
@@ -1208,7 +1208,7 @@
     "buildingPrice": "5880000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2003-01-27",
+    "confirmDate": "2003-01-27",
     "owner": "박철수"
   },
   {
@@ -1220,7 +1220,7 @@
     "buildingPrice": "2920000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2011-10-14",
+    "confirmDate": "2011-10-14",
     "owner": "박혜숙"
   },
   {
@@ -1232,7 +1232,7 @@
     "buildingPrice": "528000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2001-12-28",
+    "confirmDate": "2001-12-28",
     "owner": "김인모"
   },
   {
@@ -1244,7 +1244,7 @@
     "buildingPrice": "5720000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2015-06-12",
+    "confirmDate": "2015-06-12",
     "owner": "김재창"
   },
   {
@@ -1256,7 +1256,7 @@
     "buildingPrice": "263000",
     "floorInfo": "4",
     "roomCount": "3",
-    "comfirmDate": "2022-04-19",
+    "confirmDate": "2022-04-19",
     "owner": "정미라"
   },
   {
@@ -1268,7 +1268,7 @@
     "buildingPrice": "832000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2015-04-10",
+    "confirmDate": "2015-04-10",
     "owner": "조항규"
   },
   {
@@ -1280,7 +1280,7 @@
     "buildingPrice": "9540000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2006-07-29",
+    "confirmDate": "2006-07-29",
     "owner": "이원훈"
   },
   {
@@ -1292,7 +1292,7 @@
     "buildingPrice": "541000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2004-11-03",
+    "confirmDate": "2004-11-03",
     "owner": "문성원"
   },
   {
@@ -1304,7 +1304,7 @@
     "buildingPrice": "9420000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2009-08-01",
+    "confirmDate": "2009-08-01",
     "owner": "강승호"
   },
   {
@@ -1316,7 +1316,7 @@
     "buildingPrice": "949000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2015-01-20",
+    "confirmDate": "2015-01-20",
     "owner": "김아람"
   },
   {
@@ -1328,7 +1328,7 @@
     "buildingPrice": "886000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2014-03-05",
+    "confirmDate": "2014-03-05",
     "owner": "최은영"
   },
   {
@@ -1340,7 +1340,7 @@
     "buildingPrice": "592000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2008-01-27",
+    "confirmDate": "2008-01-27",
     "owner": "이경희"
   },
   {
@@ -1352,7 +1352,7 @@
     "buildingPrice": "6660000",
     "floorInfo": "3",
     "roomCount": "1",
-    "comfirmDate": "2011-09-06",
+    "confirmDate": "2011-09-06",
     "owner": "이동춘"
   },
   {
@@ -1364,7 +1364,7 @@
     "buildingPrice": "393000",
     "floorInfo": "4",
     "roomCount": "4",
-    "comfirmDate": "2013-08-12",
+    "confirmDate": "2013-08-12",
     "owner": "유희정"
   },
   {
@@ -1376,7 +1376,7 @@
     "buildingPrice": "1730000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2018-03-04",
+    "confirmDate": "2018-03-04",
     "owner": "이재윤"
   },
   {
@@ -1388,7 +1388,7 @@
     "buildingPrice": "9750000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2017-12-12",
+    "confirmDate": "2017-12-12",
     "owner": "강준호"
   },
   {
@@ -1400,7 +1400,7 @@
     "buildingPrice": "4960000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2012-09-01",
+    "confirmDate": "2012-09-01",
     "owner": "서종원"
   },
   {
@@ -1412,7 +1412,7 @@
     "buildingPrice": "347000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2007-04-28",
+    "confirmDate": "2007-04-28",
     "owner": "심재현"
   },
   {
@@ -1424,7 +1424,7 @@
     "buildingPrice": "517000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2021-07-20",
+    "confirmDate": "2021-07-20",
     "owner": "김영호"
   },
   {
@@ -1436,7 +1436,7 @@
     "buildingPrice": "897000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2000-06-30",
+    "confirmDate": "2000-06-30",
     "owner": "김판영"
   },
   {
@@ -1448,7 +1448,7 @@
     "buildingPrice": "8880000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2009-11-19",
+    "confirmDate": "2009-11-19",
     "owner": "홍완석"
   },
   {
@@ -1460,7 +1460,7 @@
     "buildingPrice": "419000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2024-05-30",
+    "confirmDate": "2024-05-30",
     "owner": "김영삼"
   },
   {
@@ -1472,7 +1472,7 @@
     "buildingPrice": "664000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2000-02-09",
+    "confirmDate": "2000-02-09",
     "owner": "신경남"
   },
   {
@@ -1484,7 +1484,7 @@
     "buildingPrice": "928000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2005-06-04",
+    "confirmDate": "2005-06-04",
     "owner": "박한준"
   },
   {
@@ -1496,7 +1496,7 @@
     "buildingPrice": "496000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2004-09-29",
+    "confirmDate": "2004-09-29",
     "owner": "주성윤"
   },
   {
@@ -1508,7 +1508,7 @@
     "buildingPrice": "531000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2017-06-13",
+    "confirmDate": "2017-06-13",
     "owner": "김흥영"
   },
   {
@@ -1520,7 +1520,7 @@
     "buildingPrice": "7240000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2001-03-30",
+    "confirmDate": "2001-03-30",
     "owner": "박순상"
   },
   {
@@ -1532,7 +1532,7 @@
     "buildingPrice": "431000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2018-10-27",
+    "confirmDate": "2018-10-27",
     "owner": "최범섭"
   },
   {
@@ -1544,7 +1544,7 @@
     "buildingPrice": "685000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2011-11-22",
+    "confirmDate": "2011-11-22",
     "owner": "김영훈"
   },
   {
@@ -1556,7 +1556,7 @@
     "buildingPrice": "3740000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2012-05-12",
+    "confirmDate": "2012-05-12",
     "owner": "최근수"
   },
   {
@@ -1568,7 +1568,7 @@
     "buildingPrice": "705000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2023-06-13",
+    "confirmDate": "2023-06-13",
     "owner": "유재은"
   },
   {
@@ -1580,7 +1580,7 @@
     "buildingPrice": "999000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2002-07-08",
+    "confirmDate": "2002-07-08",
     "owner": "윤원복"
   },
   {
@@ -1592,7 +1592,7 @@
     "buildingPrice": "444000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2011-05-21",
+    "confirmDate": "2011-05-21",
     "owner": "정민자"
   },
   {
@@ -1604,7 +1604,7 @@
     "buildingPrice": "4610000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2007-04-29",
+    "confirmDate": "2007-04-29",
     "owner": "이윤서"
   },
   {
@@ -1616,7 +1616,7 @@
     "buildingPrice": "365000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2020-06-01",
+    "confirmDate": "2020-06-01",
     "owner": "박평기"
   },
   {
@@ -1628,7 +1628,7 @@
     "buildingPrice": "4770000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2004-10-13",
+    "confirmDate": "2004-10-13",
     "owner": "한승범"
   },
   {
@@ -1640,7 +1640,7 @@
     "buildingPrice": "4320000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2006-03-09",
+    "confirmDate": "2006-03-09",
     "owner": "김길옥"
   },
   {
@@ -1652,7 +1652,7 @@
     "buildingPrice": "2530000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2023-05-25",
+    "confirmDate": "2023-05-25",
     "owner": "박병호"
   },
   {
@@ -1664,7 +1664,7 @@
     "buildingPrice": "3100000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2021-05-13",
+    "confirmDate": "2021-05-13",
     "owner": "최서인"
   },
   {
@@ -1676,7 +1676,7 @@
     "buildingPrice": "4570000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2018-06-19",
+    "confirmDate": "2018-06-19",
     "owner": "김천겸"
   },
   {
@@ -1688,7 +1688,7 @@
     "buildingPrice": "725000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2018-03-03",
+    "confirmDate": "2018-03-03",
     "owner": "김지현"
   },
   {
@@ -1700,7 +1700,7 @@
     "buildingPrice": "351000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2010-10-23",
+    "confirmDate": "2010-10-23",
     "owner": "김중석"
   },
   {
@@ -1712,7 +1712,7 @@
     "buildingPrice": "3660000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2013-11-14",
+    "confirmDate": "2013-11-14",
     "owner": "유회일"
   },
   {
@@ -1724,7 +1724,7 @@
     "buildingPrice": "896000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2005-12-03",
+    "confirmDate": "2005-12-03",
     "owner": "박소향"
   },
   {
@@ -1736,7 +1736,7 @@
     "buildingPrice": "9110000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2014-04-19",
+    "confirmDate": "2014-04-19",
     "owner": "이결휘"
   },
   {
@@ -1748,7 +1748,7 @@
     "buildingPrice": "299000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2015-11-30",
+    "confirmDate": "2015-11-30",
     "owner": "박호철"
   },
   {
@@ -1760,7 +1760,7 @@
     "buildingPrice": "702000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2000-02-26",
+    "confirmDate": "2000-02-26",
     "owner": "김영순"
   },
   {
@@ -1772,7 +1772,7 @@
     "buildingPrice": "443000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2011-05-31",
+    "confirmDate": "2011-05-31",
     "owner": "이정민"
   },
   {
@@ -1784,7 +1784,7 @@
     "buildingPrice": "3730000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2017-11-22",
+    "confirmDate": "2017-11-22",
     "owner": "차명미"
   },
   {
@@ -1796,7 +1796,7 @@
     "buildingPrice": "739000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2014-08-29",
+    "confirmDate": "2014-08-29",
     "owner": "김선애"
   },
   {
@@ -1808,7 +1808,7 @@
     "buildingPrice": "5570000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2007-05-23",
+    "confirmDate": "2007-05-23",
     "owner": "국민호"
   },
   {
@@ -1820,7 +1820,7 @@
     "buildingPrice": "410000",
     "floorInfo": "3",
     "roomCount": "1",
-    "comfirmDate": "2020-06-25",
+    "confirmDate": "2020-06-25",
     "owner": "오현진"
   },
   {
@@ -1832,7 +1832,7 @@
     "buildingPrice": "955000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2010-04-24",
+    "confirmDate": "2010-04-24",
     "owner": "박현희"
   },
   {
@@ -1844,7 +1844,7 @@
     "buildingPrice": "1290000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2017-08-27",
+    "confirmDate": "2017-08-27",
     "owner": "최진아"
   },
   {
@@ -1856,7 +1856,7 @@
     "buildingPrice": "646000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2004-04-20",
+    "confirmDate": "2004-04-20",
     "owner": "민현아"
   },
   {
@@ -1868,7 +1868,7 @@
     "buildingPrice": "597000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2009-04-03",
+    "confirmDate": "2009-04-03",
     "owner": "하도연"
   },
   {
@@ -1880,7 +1880,7 @@
     "buildingPrice": "842000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2006-06-01",
+    "confirmDate": "2006-06-01",
     "owner": "박운하"
   },
   {
@@ -1892,7 +1892,7 @@
     "buildingPrice": "8250000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2019-02-07",
+    "confirmDate": "2019-02-07",
     "owner": "민복현"
   },
   {
@@ -1904,7 +1904,7 @@
     "buildingPrice": "3960000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2005-01-02",
+    "confirmDate": "2005-01-02",
     "owner": "원유수"
   },
   {
@@ -1916,7 +1916,7 @@
     "buildingPrice": "2350000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2016-03-22",
+    "confirmDate": "2016-03-22",
     "owner": "김정식"
   },
   {
@@ -1928,7 +1928,7 @@
     "buildingPrice": "9700000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2012-01-31",
+    "confirmDate": "2012-01-31",
     "owner": "현금자"
   },
   {
@@ -1940,7 +1940,7 @@
     "buildingPrice": "9060000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2018-04-29",
+    "confirmDate": "2018-04-29",
     "owner": "이신옥"
   },
   {
@@ -1952,7 +1952,7 @@
     "buildingPrice": "3700000",
     "floorInfo": "9",
     "roomCount": "2",
-    "comfirmDate": "2019-10-22",
+    "confirmDate": "2019-10-22",
     "owner": "임지은"
   },
   {
@@ -1964,7 +1964,7 @@
     "buildingPrice": "7120000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2017-03-23",
+    "confirmDate": "2017-03-23",
     "owner": "박희연"
   },
   {
@@ -1976,7 +1976,7 @@
     "buildingPrice": "3540000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2001-07-28",
+    "confirmDate": "2001-07-28",
     "owner": "이기월"
   },
   {
@@ -1988,7 +1988,7 @@
     "buildingPrice": "227000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2017-04-02",
+    "confirmDate": "2017-04-02",
     "owner": "문광석"
   },
   {
@@ -2000,7 +2000,7 @@
     "buildingPrice": "3400000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2007-10-25",
+    "confirmDate": "2007-10-25",
     "owner": "남희정"
   },
   {
@@ -2012,7 +2012,7 @@
     "buildingPrice": "2690000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2010-11-03",
+    "confirmDate": "2010-11-03",
     "owner": "빈광열"
   },
   {
@@ -2024,7 +2024,7 @@
     "buildingPrice": "649000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2007-04-30",
+    "confirmDate": "2007-04-30",
     "owner": "주미정"
   },
   {
@@ -2036,7 +2036,7 @@
     "buildingPrice": "829000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2015-12-01",
+    "confirmDate": "2015-12-01",
     "owner": "박무현"
   },
   {
@@ -2048,7 +2048,7 @@
     "buildingPrice": "8690000",
     "floorInfo": "6",
     "roomCount": "4",
-    "comfirmDate": "2018-11-10",
+    "confirmDate": "2018-11-10",
     "owner": "박오숙"
   },
   {
@@ -2060,7 +2060,7 @@
     "buildingPrice": "2140000",
     "floorInfo": "9",
     "roomCount": "1",
-    "comfirmDate": "2023-02-22",
+    "confirmDate": "2023-02-22",
     "owner": "김나라"
   },
   {
@@ -2072,7 +2072,7 @@
     "buildingPrice": "6860000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2002-03-13",
+    "confirmDate": "2002-03-13",
     "owner": "이재구"
   },
   {
@@ -2084,7 +2084,7 @@
     "buildingPrice": "8850000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2003-12-26",
+    "confirmDate": "2003-12-26",
     "owner": "윤보미"
   },
   {
@@ -2096,7 +2096,7 @@
     "buildingPrice": "930000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2018-05-12",
+    "confirmDate": "2018-05-12",
     "owner": "이화진"
   },
   {
@@ -2108,7 +2108,7 @@
     "buildingPrice": "2930000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2020-01-07",
+    "confirmDate": "2020-01-07",
     "owner": "장원진"
   },
   {
@@ -2120,7 +2120,7 @@
     "buildingPrice": "1700000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2001-12-11",
+    "confirmDate": "2001-12-11",
     "owner": "이호재"
   },
   {
@@ -2132,7 +2132,7 @@
     "buildingPrice": "4110000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2008-05-16",
+    "confirmDate": "2008-05-16",
     "owner": "문금주"
   },
   {
@@ -2144,7 +2144,7 @@
     "buildingPrice": "9470000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2016-09-08",
+    "confirmDate": "2016-09-08",
     "owner": "나미숙"
   },
   {
@@ -2156,7 +2156,7 @@
     "buildingPrice": "987000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2013-05-28",
+    "confirmDate": "2013-05-28",
     "owner": "최정보"
   },
   {
@@ -2168,7 +2168,7 @@
     "buildingPrice": "183000",
     "floorInfo": "3",
     "roomCount": "1",
-    "comfirmDate": "2002-05-26",
+    "confirmDate": "2002-05-26",
     "owner": "김우성"
   },
   {
@@ -2180,7 +2180,7 @@
     "buildingPrice": "3270000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2001-06-21",
+    "confirmDate": "2001-06-21",
     "owner": "김창기"
   },
   {
@@ -2192,7 +2192,7 @@
     "buildingPrice": "4440000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2024-06-13",
+    "confirmDate": "2024-06-13",
     "owner": "김진태"
   },
   {
@@ -2204,7 +2204,7 @@
     "buildingPrice": "1810000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2012-05-06",
+    "confirmDate": "2012-05-06",
     "owner": "김진식"
   },
   {
@@ -2216,7 +2216,7 @@
     "buildingPrice": "719000",
     "floorInfo": "1",
     "roomCount": "3",
-    "comfirmDate": "2009-11-02",
+    "confirmDate": "2009-11-02",
     "owner": "정성수"
   },
   {
@@ -2228,7 +2228,7 @@
     "buildingPrice": "124000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2004-06-17",
+    "confirmDate": "2004-06-17",
     "owner": "장현재"
   },
   {
@@ -2240,7 +2240,7 @@
     "buildingPrice": "2700000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2023-05-18",
+    "confirmDate": "2023-05-18",
     "owner": "명체환"
   },
   {
@@ -2252,7 +2252,7 @@
     "buildingPrice": "2550000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2005-11-15",
+    "confirmDate": "2005-11-15",
     "owner": "심금정"
   },
   {
@@ -2264,7 +2264,7 @@
     "buildingPrice": "5020000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2004-07-29",
+    "confirmDate": "2004-07-29",
     "owner": "안소영"
   },
   {
@@ -2276,7 +2276,7 @@
     "buildingPrice": "3560000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2015-08-25",
+    "confirmDate": "2015-08-25",
     "owner": "강미연"
   },
   {
@@ -2288,7 +2288,7 @@
     "buildingPrice": "135000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2018-06-17",
+    "confirmDate": "2018-06-17",
     "owner": "권순율"
   },
   {
@@ -2300,7 +2300,7 @@
     "buildingPrice": "597000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2015-02-14",
+    "confirmDate": "2015-02-14",
     "owner": "조성욱"
   },
   {
@@ -2312,7 +2312,7 @@
     "buildingPrice": "781000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2014-06-22",
+    "confirmDate": "2014-06-22",
     "owner": "장동호"
   },
   {
@@ -2324,7 +2324,7 @@
     "buildingPrice": "9930000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2014-02-26",
+    "confirmDate": "2014-02-26",
     "owner": "황한삼"
   },
   {
@@ -2336,7 +2336,7 @@
     "buildingPrice": "8060000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2001-07-09",
+    "confirmDate": "2001-07-09",
     "owner": "조민정"
   },
   {
@@ -2348,7 +2348,7 @@
     "buildingPrice": "448000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2017-09-26",
+    "confirmDate": "2017-09-26",
     "owner": "김원선"
   },
   {
@@ -2360,7 +2360,7 @@
     "buildingPrice": "3230000",
     "floorInfo": "10",
     "roomCount": "3",
-    "comfirmDate": "2015-05-31",
+    "confirmDate": "2015-05-31",
     "owner": "유동현"
   },
   {
@@ -2372,7 +2372,7 @@
     "buildingPrice": "9350000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2017-07-26",
+    "confirmDate": "2017-07-26",
     "owner": "조운례"
   },
   {
@@ -2384,7 +2384,7 @@
     "buildingPrice": "440000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2005-09-18",
+    "confirmDate": "2005-09-18",
     "owner": "홍우승"
   },
   {
@@ -2396,7 +2396,7 @@
     "buildingPrice": "148000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2022-03-17",
+    "confirmDate": "2022-03-17",
     "owner": "백은경"
   },
   {
@@ -2408,7 +2408,7 @@
     "buildingPrice": "164000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2021-01-16",
+    "confirmDate": "2021-01-16",
     "owner": "이민우"
   },
   {
@@ -2420,7 +2420,7 @@
     "buildingPrice": "9250000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2018-09-16",
+    "confirmDate": "2018-09-16",
     "owner": "신근영"
   },
   {
@@ -2432,7 +2432,7 @@
     "buildingPrice": "720000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2009-03-29",
+    "confirmDate": "2009-03-29",
     "owner": "박복남"
   },
   {
@@ -2444,7 +2444,7 @@
     "buildingPrice": "373000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2014-10-14",
+    "confirmDate": "2014-10-14",
     "owner": "김위중"
   },
   {
@@ -2456,7 +2456,7 @@
     "buildingPrice": "527000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2023-02-07",
+    "confirmDate": "2023-02-07",
     "owner": "이미순"
   },
   {
@@ -2468,7 +2468,7 @@
     "buildingPrice": "4980000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2022-08-29",
+    "confirmDate": "2022-08-29",
     "owner": "홍수정"
   },
   {
@@ -2480,7 +2480,7 @@
     "buildingPrice": "8460000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2010-11-01",
+    "confirmDate": "2010-11-01",
     "owner": "이정희"
   },
   {
@@ -2492,7 +2492,7 @@
     "buildingPrice": "9320000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2010-04-27",
+    "confirmDate": "2010-04-27",
     "owner": "조승현"
   },
   {
@@ -2504,7 +2504,7 @@
     "buildingPrice": "857000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2002-09-24",
+    "confirmDate": "2002-09-24",
     "owner": "김지윤"
   },
   {
@@ -2516,7 +2516,7 @@
     "buildingPrice": "9930000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2001-05-09",
+    "confirmDate": "2001-05-09",
     "owner": "임민호"
   },
   {
@@ -2528,7 +2528,7 @@
     "buildingPrice": "9640000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2017-04-12",
+    "confirmDate": "2017-04-12",
     "owner": "양옥희"
   },
   {
@@ -2540,7 +2540,7 @@
     "buildingPrice": "830000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2015-06-06",
+    "confirmDate": "2015-06-06",
     "owner": "김진영"
   },
   {
@@ -2552,7 +2552,7 @@
     "buildingPrice": "2610000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2018-07-12",
+    "confirmDate": "2018-07-12",
     "owner": "서정복"
   },
   {
@@ -2564,7 +2564,7 @@
     "buildingPrice": "7260000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2006-10-04",
+    "confirmDate": "2006-10-04",
     "owner": "박성진"
   },
   {
@@ -2576,7 +2576,7 @@
     "buildingPrice": "6300000",
     "floorInfo": "10",
     "roomCount": "3",
-    "comfirmDate": "2007-07-02",
+    "confirmDate": "2007-07-02",
     "owner": "최소영"
   },
   {
@@ -2588,7 +2588,7 @@
     "buildingPrice": "569000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2014-09-11",
+    "confirmDate": "2014-09-11",
     "owner": "김형인"
   },
   {
@@ -2600,7 +2600,7 @@
     "buildingPrice": "770000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2024-11-20",
+    "confirmDate": "2024-11-20",
     "owner": "이인호"
   },
   {
@@ -2612,7 +2612,7 @@
     "buildingPrice": "817000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2017-03-25",
+    "confirmDate": "2017-03-25",
     "owner": "전활덕"
   },
   {
@@ -2624,7 +2624,7 @@
     "buildingPrice": "8850000",
     "floorInfo": "6",
     "roomCount": "4",
-    "comfirmDate": "2024-05-07",
+    "confirmDate": "2024-05-07",
     "owner": "박현진"
   },
   {
@@ -2636,7 +2636,7 @@
     "buildingPrice": "517000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2000-04-13",
+    "confirmDate": "2000-04-13",
     "owner": "배윤범"
   },
   {
@@ -2648,7 +2648,7 @@
     "buildingPrice": "7080000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2001-06-02",
+    "confirmDate": "2001-06-02",
     "owner": "장중섭"
   },
   {
@@ -2660,7 +2660,7 @@
     "buildingPrice": "6150000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2008-10-24",
+    "confirmDate": "2008-10-24",
     "owner": "황충석"
   },
   {
@@ -2672,7 +2672,7 @@
     "buildingPrice": "5330000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2000-04-09",
+    "confirmDate": "2000-04-09",
     "owner": "문영례"
   },
   {
@@ -2684,7 +2684,7 @@
     "buildingPrice": "4910000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2002-12-22",
+    "confirmDate": "2002-12-22",
     "owner": "김태우"
   },
   {
@@ -2696,7 +2696,7 @@
     "buildingPrice": "1720000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2021-02-02",
+    "confirmDate": "2021-02-02",
     "owner": "신천호"
   },
   {
@@ -2708,7 +2708,7 @@
     "buildingPrice": "586000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2000-11-25",
+    "confirmDate": "2000-11-25",
     "owner": "김종일"
   },
   {
@@ -2720,7 +2720,7 @@
     "buildingPrice": "4500000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2019-05-22",
+    "confirmDate": "2019-05-22",
     "owner": "강진희"
   },
   {
@@ -2732,7 +2732,7 @@
     "buildingPrice": "8450000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2008-01-25",
+    "confirmDate": "2008-01-25",
     "owner": "박일훈"
   },
   {
@@ -2744,7 +2744,7 @@
     "buildingPrice": "669000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2021-05-25",
+    "confirmDate": "2021-05-25",
     "owner": "박병웅"
   },
   {
@@ -2756,7 +2756,7 @@
     "buildingPrice": "5430000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2002-10-21",
+    "confirmDate": "2002-10-21",
     "owner": "조민숙"
   },
   {
@@ -2768,7 +2768,7 @@
     "buildingPrice": "281000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2021-06-24",
+    "confirmDate": "2021-06-24",
     "owner": "김혁성"
   },
   {
@@ -2780,7 +2780,7 @@
     "buildingPrice": "8300000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2021-06-05",
+    "confirmDate": "2021-06-05",
     "owner": "하상돈"
   },
   {
@@ -2792,7 +2792,7 @@
     "buildingPrice": "9960000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2022-12-24",
+    "confirmDate": "2022-12-24",
     "owner": "유재원"
   },
   {
@@ -2804,7 +2804,7 @@
     "buildingPrice": "110000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2010-04-05",
+    "confirmDate": "2010-04-05",
     "owner": "김영미"
   },
   {
@@ -2816,7 +2816,7 @@
     "buildingPrice": "804000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2008-09-05",
+    "confirmDate": "2008-09-05",
     "owner": "이강선"
   },
   {
@@ -2828,7 +2828,7 @@
     "buildingPrice": "5670000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2000-10-28",
+    "confirmDate": "2000-10-28",
     "owner": "오동근"
   },
   {
@@ -2840,7 +2840,7 @@
     "buildingPrice": "3890000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2014-08-18",
+    "confirmDate": "2014-08-18",
     "owner": "장미화"
   },
   {
@@ -2852,7 +2852,7 @@
     "buildingPrice": "998000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2003-11-11",
+    "confirmDate": "2003-11-11",
     "owner": "정태순"
   },
   {
@@ -2864,7 +2864,7 @@
     "buildingPrice": "2410000",
     "floorInfo": "3",
     "roomCount": "1",
-    "comfirmDate": "2010-12-18",
+    "confirmDate": "2010-12-18",
     "owner": "임란주"
   },
   {
@@ -2876,7 +2876,7 @@
     "buildingPrice": "889000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2000-06-06",
+    "confirmDate": "2000-06-06",
     "owner": "유지현"
   },
   {
@@ -2888,7 +2888,7 @@
     "buildingPrice": "692000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2023-04-29",
+    "confirmDate": "2023-04-29",
     "owner": "최윤하"
   },
   {
@@ -2900,7 +2900,7 @@
     "buildingPrice": "6930000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2002-04-15",
+    "confirmDate": "2002-04-15",
     "owner": "신은주"
   },
   {
@@ -2912,7 +2912,7 @@
     "buildingPrice": "4840000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2004-02-12",
+    "confirmDate": "2004-02-12",
     "owner": "강혜진"
   },
   {
@@ -2924,7 +2924,7 @@
     "buildingPrice": "663000",
     "floorInfo": "6",
     "roomCount": "4",
-    "comfirmDate": "2008-04-09",
+    "confirmDate": "2008-04-09",
     "owner": "황의승"
   },
   {
@@ -2936,7 +2936,7 @@
     "buildingPrice": "571000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2009-08-21",
+    "confirmDate": "2009-08-21",
     "owner": "정현숙"
   },
   {
@@ -2948,7 +2948,7 @@
     "buildingPrice": "819000",
     "floorInfo": "4",
     "roomCount": "4",
-    "comfirmDate": "2023-09-06",
+    "confirmDate": "2023-09-06",
     "owner": "이하성"
   },
   {
@@ -2960,7 +2960,7 @@
     "buildingPrice": "879000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2001-01-25",
+    "confirmDate": "2001-01-25",
     "owner": "임익수"
   },
   {
@@ -2972,7 +2972,7 @@
     "buildingPrice": "380000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2008-02-06",
+    "confirmDate": "2008-02-06",
     "owner": "이수정"
   },
   {
@@ -2984,7 +2984,7 @@
     "buildingPrice": "291000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2011-07-03",
+    "confirmDate": "2011-07-03",
     "owner": "김진"
   },
   {
@@ -2996,7 +2996,7 @@
     "buildingPrice": "178000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2007-08-16",
+    "confirmDate": "2007-08-16",
     "owner": "이기영"
   },
   {
@@ -3008,7 +3008,7 @@
     "buildingPrice": "9520000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2017-07-18",
+    "confirmDate": "2017-07-18",
     "owner": "이도영"
   },
   {
@@ -3020,7 +3020,7 @@
     "buildingPrice": "243000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2003-08-23",
+    "confirmDate": "2003-08-23",
     "owner": "서영완"
   },
   {
@@ -3032,7 +3032,7 @@
     "buildingPrice": "502000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2021-04-08",
+    "confirmDate": "2021-04-08",
     "owner": "김현진"
   },
   {
@@ -3044,7 +3044,7 @@
     "buildingPrice": "8810000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2018-03-16",
+    "confirmDate": "2018-03-16",
     "owner": "오성용"
   },
   {
@@ -3056,7 +3056,7 @@
     "buildingPrice": "2570000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2017-11-10",
+    "confirmDate": "2017-11-10",
     "owner": "송근우"
   },
   {
@@ -3068,7 +3068,7 @@
     "buildingPrice": "5630000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2010-08-05",
+    "confirmDate": "2010-08-05",
     "owner": "박경희"
   },
   {
@@ -3080,7 +3080,7 @@
     "buildingPrice": "3980000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2024-01-09",
+    "confirmDate": "2024-01-09",
     "owner": "이태룡"
   },
   {
@@ -3092,7 +3092,7 @@
     "buildingPrice": "6660000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2018-11-12",
+    "confirmDate": "2018-11-12",
     "owner": "서현주"
   },
   {
@@ -3104,7 +3104,7 @@
     "buildingPrice": "309000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2022-01-17",
+    "confirmDate": "2022-01-17",
     "owner": "박지현"
   },
   {
@@ -3116,7 +3116,7 @@
     "buildingPrice": "310000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2011-01-18",
+    "confirmDate": "2011-01-18",
     "owner": "김동휘"
   },
   {
@@ -3128,7 +3128,7 @@
     "buildingPrice": "9160000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2012-03-25",
+    "confirmDate": "2012-03-25",
     "owner": "정우섭"
   },
   {
@@ -3140,7 +3140,7 @@
     "buildingPrice": "127000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2023-01-15",
+    "confirmDate": "2023-01-15",
     "owner": "박선영"
   },
   {
@@ -3152,7 +3152,7 @@
     "buildingPrice": "3700000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2017-02-24",
+    "confirmDate": "2017-02-24",
     "owner": "임삼혁"
   },
   {
@@ -3164,7 +3164,7 @@
     "buildingPrice": "392000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2012-07-20",
+    "confirmDate": "2012-07-20",
     "owner": "남찬우"
   },
   {
@@ -3176,7 +3176,7 @@
     "buildingPrice": "403000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2020-04-28",
+    "confirmDate": "2020-04-28",
     "owner": "유희충"
   },
   {
@@ -3188,7 +3188,7 @@
     "buildingPrice": "9640000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2020-07-20",
+    "confirmDate": "2020-07-20",
     "owner": "김상태"
   },
   {
@@ -3200,7 +3200,7 @@
     "buildingPrice": "806000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2021-06-20",
+    "confirmDate": "2021-06-20",
     "owner": "정규만"
   },
   {
@@ -3212,7 +3212,7 @@
     "buildingPrice": "6900000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2003-12-11",
+    "confirmDate": "2003-12-11",
     "owner": "최경호"
   },
   {
@@ -3224,7 +3224,7 @@
     "buildingPrice": "8260000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2013-02-28",
+    "confirmDate": "2013-02-28",
     "owner": "박덕규"
   },
   {
@@ -3236,7 +3236,7 @@
     "buildingPrice": "303000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2007-12-21",
+    "confirmDate": "2007-12-21",
     "owner": "이화현"
   },
   {
@@ -3248,7 +3248,7 @@
     "buildingPrice": "6310000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2020-04-01",
+    "confirmDate": "2020-04-01",
     "owner": "강희목"
   },
   {
@@ -3260,7 +3260,7 @@
     "buildingPrice": "2330000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2006-02-22",
+    "confirmDate": "2006-02-22",
     "owner": "정현하"
   },
   {
@@ -3272,7 +3272,7 @@
     "buildingPrice": "801000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2009-03-20",
+    "confirmDate": "2009-03-20",
     "owner": "임승택"
   },
   {
@@ -3284,7 +3284,7 @@
     "buildingPrice": "205000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2018-03-26",
+    "confirmDate": "2018-03-26",
     "owner": "박병훈"
   },
   {
@@ -3296,7 +3296,7 @@
     "buildingPrice": "6900000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2006-12-07",
+    "confirmDate": "2006-12-07",
     "owner": "장승원"
   },
   {
@@ -3308,7 +3308,7 @@
     "buildingPrice": "179000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2000-12-28",
+    "confirmDate": "2000-12-28",
     "owner": "진광식"
   },
   {
@@ -3320,7 +3320,7 @@
     "buildingPrice": "8710000",
     "floorInfo": "1",
     "roomCount": "3",
-    "comfirmDate": "2023-11-08",
+    "confirmDate": "2023-11-08",
     "owner": "권승희"
   },
   {
@@ -3332,7 +3332,7 @@
     "buildingPrice": "9050000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2008-11-29",
+    "confirmDate": "2008-11-29",
     "owner": "주양호"
   },
   {
@@ -3344,7 +3344,7 @@
     "buildingPrice": "5010000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2003-06-06",
+    "confirmDate": "2003-06-06",
     "owner": "신의식"
   },
   {
@@ -3356,7 +3356,7 @@
     "buildingPrice": "723000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2013-04-03",
+    "confirmDate": "2013-04-03",
     "owner": "김규을"
   },
   {
@@ -3368,7 +3368,7 @@
     "buildingPrice": "1070000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2022-01-09",
+    "confirmDate": "2022-01-09",
     "owner": "진혜은"
   },
   {
@@ -3380,7 +3380,7 @@
     "buildingPrice": "858000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2022-08-13",
+    "confirmDate": "2022-08-13",
     "owner": "이동영"
   },
   {
@@ -3392,7 +3392,7 @@
     "buildingPrice": "5920000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2007-03-05",
+    "confirmDate": "2007-03-05",
     "owner": "이지혜"
   },
   {
@@ -3404,7 +3404,7 @@
     "buildingPrice": "6070000",
     "floorInfo": "6",
     "roomCount": "4",
-    "comfirmDate": "2010-04-04",
+    "confirmDate": "2010-04-04",
     "owner": "유만석"
   },
   {
@@ -3416,7 +3416,7 @@
     "buildingPrice": "2780000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2000-04-03",
+    "confirmDate": "2000-04-03",
     "owner": "정은정"
   },
   {
@@ -3428,7 +3428,7 @@
     "buildingPrice": "2500000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2020-03-27",
+    "confirmDate": "2020-03-27",
     "owner": "서혜진"
   },
   {
@@ -3440,7 +3440,7 @@
     "buildingPrice": "882000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2022-06-20",
+    "confirmDate": "2022-06-20",
     "owner": "권도희"
   },
   {
@@ -3452,7 +3452,7 @@
     "buildingPrice": "514000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2019-10-27",
+    "confirmDate": "2019-10-27",
     "owner": "이정헌"
   },
   {
@@ -3464,7 +3464,7 @@
     "buildingPrice": "3710000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2013-11-07",
+    "confirmDate": "2013-11-07",
     "owner": "송해명"
   },
   {
@@ -3476,7 +3476,7 @@
     "buildingPrice": "869000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2001-09-30",
+    "confirmDate": "2001-09-30",
     "owner": "석종남"
   },
   {
@@ -3488,7 +3488,7 @@
     "buildingPrice": "2540000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2010-11-10",
+    "confirmDate": "2010-11-10",
     "owner": "최현승"
   },
   {
@@ -3500,7 +3500,7 @@
     "buildingPrice": "192000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2015-07-10",
+    "confirmDate": "2015-07-10",
     "owner": "이정희"
   },
   {
@@ -3512,7 +3512,7 @@
     "buildingPrice": "7910000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2017-11-21",
+    "confirmDate": "2017-11-21",
     "owner": "권오윤"
   },
   {
@@ -3524,7 +3524,7 @@
     "buildingPrice": "625000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2012-12-28",
+    "confirmDate": "2012-12-28",
     "owner": "오상원"
   },
   {
@@ -3536,7 +3536,7 @@
     "buildingPrice": "585000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2021-02-19",
+    "confirmDate": "2021-02-19",
     "owner": "조찬구"
   },
   {
@@ -3548,7 +3548,7 @@
     "buildingPrice": "880000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2013-12-27",
+    "confirmDate": "2013-12-27",
     "owner": "최성일"
   },
   {
@@ -3560,7 +3560,7 @@
     "buildingPrice": "250000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2000-06-24",
+    "confirmDate": "2000-06-24",
     "owner": "권귀순"
   },
   {
@@ -3572,7 +3572,7 @@
     "buildingPrice": "183000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2008-11-28",
+    "confirmDate": "2008-11-28",
     "owner": "한원석"
   },
   {
@@ -3584,7 +3584,7 @@
     "buildingPrice": "720000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2013-06-25",
+    "confirmDate": "2013-06-25",
     "owner": "김현기"
   },
   {
@@ -3596,7 +3596,7 @@
     "buildingPrice": "6850000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2000-12-18",
+    "confirmDate": "2000-12-18",
     "owner": "최완수"
   },
   {
@@ -3608,7 +3608,7 @@
     "buildingPrice": "996000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2018-11-05",
+    "confirmDate": "2018-11-05",
     "owner": "김주현"
   },
   {
@@ -3620,7 +3620,7 @@
     "buildingPrice": "1700000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2024-01-20",
+    "confirmDate": "2024-01-20",
     "owner": "이락울"
   },
   {
@@ -3632,7 +3632,7 @@
     "buildingPrice": "622000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2010-10-10",
+    "confirmDate": "2010-10-10",
     "owner": "박종철"
   },
   {
@@ -3644,7 +3644,7 @@
     "buildingPrice": "8500000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2007-08-19",
+    "confirmDate": "2007-08-19",
     "owner": "정유진"
   },
   {
@@ -3656,7 +3656,7 @@
     "buildingPrice": "356000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2015-02-28",
+    "confirmDate": "2015-02-28",
     "owner": "유영덕"
   },
   {
@@ -3668,7 +3668,7 @@
     "buildingPrice": "242000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2007-02-03",
+    "confirmDate": "2007-02-03",
     "owner": "박상준"
   },
   {
@@ -3680,7 +3680,7 @@
     "buildingPrice": "1130000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2002-09-16",
+    "confirmDate": "2002-09-16",
     "owner": "안윤숙"
   },
   {
@@ -3692,7 +3692,7 @@
     "buildingPrice": "992000",
     "floorInfo": "4",
     "roomCount": "1",
-    "comfirmDate": "2019-01-21",
+    "confirmDate": "2019-01-21",
     "owner": "이윤희"
   },
   {
@@ -3704,7 +3704,7 @@
     "buildingPrice": "577000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2024-09-09",
+    "confirmDate": "2024-09-09",
     "owner": "김정희"
   },
   {
@@ -3716,7 +3716,7 @@
     "buildingPrice": "9290000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2011-04-10",
+    "confirmDate": "2011-04-10",
     "owner": "이상현"
   },
   {
@@ -3728,7 +3728,7 @@
     "buildingPrice": "1660000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2016-10-01",
+    "confirmDate": "2016-10-01",
     "owner": "이남수"
   },
   {
@@ -3740,7 +3740,7 @@
     "buildingPrice": "225000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2009-03-27",
+    "confirmDate": "2009-03-27",
     "owner": "조강희"
   },
   {
@@ -3752,7 +3752,7 @@
     "buildingPrice": "799000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2018-03-18",
+    "confirmDate": "2018-03-18",
     "owner": "유용선"
   },
   {
@@ -3764,7 +3764,7 @@
     "buildingPrice": "2910000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2016-11-08",
+    "confirmDate": "2016-11-08",
     "owner": "강유미"
   },
   {
@@ -3776,7 +3776,7 @@
     "buildingPrice": "4000000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2007-11-21",
+    "confirmDate": "2007-11-21",
     "owner": "이종서"
   },
   {
@@ -3788,7 +3788,7 @@
     "buildingPrice": "7830000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2008-04-17",
+    "confirmDate": "2008-04-17",
     "owner": "박주현"
   },
   {
@@ -3800,7 +3800,7 @@
     "buildingPrice": "6510000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2015-01-12",
+    "confirmDate": "2015-01-12",
     "owner": "임현정"
   },
   {
@@ -3812,7 +3812,7 @@
     "buildingPrice": "4280000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2003-07-23",
+    "confirmDate": "2003-07-23",
     "owner": "권현상"
   },
   {
@@ -3824,7 +3824,7 @@
     "buildingPrice": "8650000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2017-06-20",
+    "confirmDate": "2017-06-20",
     "owner": "주한국"
   },
   {
@@ -3836,7 +3836,7 @@
     "buildingPrice": "4930000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2009-09-29",
+    "confirmDate": "2009-09-29",
     "owner": "정숙희"
   },
   {
@@ -3848,7 +3848,7 @@
     "buildingPrice": "773000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2014-01-16",
+    "confirmDate": "2014-01-16",
     "owner": "복남규"
   },
   {
@@ -3860,7 +3860,7 @@
     "buildingPrice": "1160000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2004-01-30",
+    "confirmDate": "2004-01-30",
     "owner": "심동섭"
   },
   {
@@ -3872,7 +3872,7 @@
     "buildingPrice": "825000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2021-02-07",
+    "confirmDate": "2021-02-07",
     "owner": "배근식"
   },
   {
@@ -3884,7 +3884,7 @@
     "buildingPrice": "7960000",
     "floorInfo": "10",
     "roomCount": "4",
-    "comfirmDate": "2024-09-22",
+    "confirmDate": "2024-09-22",
     "owner": "김연란"
   },
   {
@@ -3896,7 +3896,7 @@
     "buildingPrice": "9930000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2000-09-27",
+    "confirmDate": "2000-09-27",
     "owner": "김광삼"
   },
   {
@@ -3908,7 +3908,7 @@
     "buildingPrice": "886000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2013-04-08",
+    "confirmDate": "2013-04-08",
     "owner": "김태건"
   },
   {
@@ -3920,7 +3920,7 @@
     "buildingPrice": "405000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2004-04-08",
+    "confirmDate": "2004-04-08",
     "owner": "김학재"
   },
   {
@@ -3932,7 +3932,7 @@
     "buildingPrice": "933000",
     "floorInfo": "10",
     "roomCount": "2",
-    "comfirmDate": "2002-05-30",
+    "confirmDate": "2002-05-30",
     "owner": "신양미"
   },
   {
@@ -3944,7 +3944,7 @@
     "buildingPrice": "5830000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2006-04-16",
+    "confirmDate": "2006-04-16",
     "owner": "송수연"
   },
   {
@@ -3956,7 +3956,7 @@
     "buildingPrice": "4290000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2004-09-07",
+    "confirmDate": "2004-09-07",
     "owner": "김서연"
   },
   {
@@ -3968,7 +3968,7 @@
     "buildingPrice": "943000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2024-10-24",
+    "confirmDate": "2024-10-24",
     "owner": "나희주"
   },
   {
@@ -3980,7 +3980,7 @@
     "buildingPrice": "1850000",
     "floorInfo": "10",
     "roomCount": "3",
-    "comfirmDate": "2012-02-25",
+    "confirmDate": "2012-02-25",
     "owner": "한광숙"
   },
   {
@@ -3992,7 +3992,7 @@
     "buildingPrice": "2290000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2013-07-14",
+    "confirmDate": "2013-07-14",
     "owner": "장수"
   },
   {
@@ -4004,7 +4004,7 @@
     "buildingPrice": "2080000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2010-03-23",
+    "confirmDate": "2010-03-23",
     "owner": "여지윤"
   },
   {
@@ -4016,7 +4016,7 @@
     "buildingPrice": "9610000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2007-12-12",
+    "confirmDate": "2007-12-12",
     "owner": "안한수"
   },
   {
@@ -4028,7 +4028,7 @@
     "buildingPrice": "349000",
     "floorInfo": "9",
     "roomCount": "1",
-    "comfirmDate": "2010-12-08",
+    "confirmDate": "2010-12-08",
     "owner": "김성주"
   },
   {
@@ -4040,7 +4040,7 @@
     "buildingPrice": "489000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2022-03-26",
+    "confirmDate": "2022-03-26",
     "owner": "이채연"
   },
   {
@@ -4052,7 +4052,7 @@
     "buildingPrice": "702000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2024-01-22",
+    "confirmDate": "2024-01-22",
     "owner": "황하균"
   },
   {
@@ -4064,7 +4064,7 @@
     "buildingPrice": "908000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2021-04-17",
+    "confirmDate": "2021-04-17",
     "owner": "천금옥"
   },
   {
@@ -4076,7 +4076,7 @@
     "buildingPrice": "1190000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2023-12-09",
+    "confirmDate": "2023-12-09",
     "owner": "이서현"
   },
   {
@@ -4088,7 +4088,7 @@
     "buildingPrice": "2220000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2012-09-21",
+    "confirmDate": "2012-09-21",
     "owner": "허윤정"
   },
   {
@@ -4100,7 +4100,7 @@
     "buildingPrice": "5490000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2019-05-12",
+    "confirmDate": "2019-05-12",
     "owner": "박성예"
   },
   {
@@ -4112,7 +4112,7 @@
     "buildingPrice": "627000",
     "floorInfo": "7",
     "roomCount": "2",
-    "comfirmDate": "2019-10-02",
+    "confirmDate": "2019-10-02",
     "owner": "서지영"
   },
   {
@@ -4124,7 +4124,7 @@
     "buildingPrice": "769000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2009-11-06",
+    "confirmDate": "2009-11-06",
     "owner": "서상훈"
   },
   {
@@ -4136,7 +4136,7 @@
     "buildingPrice": "827000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2019-09-13",
+    "confirmDate": "2019-09-13",
     "owner": "박중연"
   },
   {
@@ -4148,7 +4148,7 @@
     "buildingPrice": "106000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2000-11-24",
+    "confirmDate": "2000-11-24",
     "owner": "원명현"
   },
   {
@@ -4160,7 +4160,7 @@
     "buildingPrice": "940000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2003-08-20",
+    "confirmDate": "2003-08-20",
     "owner": "이학순"
   },
   {
@@ -4172,7 +4172,7 @@
     "buildingPrice": "7350000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2002-02-01",
+    "confirmDate": "2002-02-01",
     "owner": "이종묵"
   },
   {
@@ -4184,7 +4184,7 @@
     "buildingPrice": "383000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2005-05-09",
+    "confirmDate": "2005-05-09",
     "owner": "원정후"
   },
   {
@@ -4196,7 +4196,7 @@
     "buildingPrice": "5270000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2023-12-22",
+    "confirmDate": "2023-12-22",
     "owner": "심순옥"
   },
   {
@@ -4208,7 +4208,7 @@
     "buildingPrice": "8820000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2005-09-16",
+    "confirmDate": "2005-09-16",
     "owner": "김철진"
   },
   {
@@ -4220,7 +4220,7 @@
     "buildingPrice": "532000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2001-10-04",
+    "confirmDate": "2001-10-04",
     "owner": "이경숙"
   },
   {
@@ -4232,7 +4232,7 @@
     "buildingPrice": "9400000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2006-11-12",
+    "confirmDate": "2006-11-12",
     "owner": "김선정"
   },
   {
@@ -4244,7 +4244,7 @@
     "buildingPrice": "909000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2019-11-23",
+    "confirmDate": "2019-11-23",
     "owner": "박민예"
   },
   {
@@ -4256,7 +4256,7 @@
     "buildingPrice": "833000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2022-07-26",
+    "confirmDate": "2022-07-26",
     "owner": "박계진"
   },
   {
@@ -4268,7 +4268,7 @@
     "buildingPrice": "2250000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2007-04-28",
+    "confirmDate": "2007-04-28",
     "owner": "김종희"
   },
   {
@@ -4280,7 +4280,7 @@
     "buildingPrice": "7640000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2018-02-01",
+    "confirmDate": "2018-02-01",
     "owner": "이성숙"
   },
   {
@@ -4292,7 +4292,7 @@
     "buildingPrice": "5810000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2001-05-09",
+    "confirmDate": "2001-05-09",
     "owner": "조명철"
   },
   {
@@ -4304,7 +4304,7 @@
     "buildingPrice": "4910000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2007-12-07",
+    "confirmDate": "2007-12-07",
     "owner": "신흥섭"
   },
   {
@@ -4316,7 +4316,7 @@
     "buildingPrice": "490000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2010-01-24",
+    "confirmDate": "2010-01-24",
     "owner": "김철곤"
   },
   {
@@ -4328,7 +4328,7 @@
     "buildingPrice": "8740000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2009-11-01",
+    "confirmDate": "2009-11-01",
     "owner": "이임숙"
   },
   {
@@ -4340,7 +4340,7 @@
     "buildingPrice": "158000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2021-10-14",
+    "confirmDate": "2021-10-14",
     "owner": "강병희"
   },
   {
@@ -4352,7 +4352,7 @@
     "buildingPrice": "2080000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2014-11-08",
+    "confirmDate": "2014-11-08",
     "owner": "양화자"
   },
   {
@@ -4364,7 +4364,7 @@
     "buildingPrice": "420000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2009-10-27",
+    "confirmDate": "2009-10-27",
     "owner": "황치영"
   },
   {
@@ -4376,7 +4376,7 @@
     "buildingPrice": "6250000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2014-11-21",
+    "confirmDate": "2014-11-21",
     "owner": "허길호"
   },
   {
@@ -4388,7 +4388,7 @@
     "buildingPrice": "180000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2012-07-31",
+    "confirmDate": "2012-07-31",
     "owner": "이애영"
   },
   {
@@ -4400,7 +4400,7 @@
     "buildingPrice": "8900000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2024-03-02",
+    "confirmDate": "2024-03-02",
     "owner": "안한식"
   },
   {
@@ -4412,7 +4412,7 @@
     "buildingPrice": "703000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2022-03-26",
+    "confirmDate": "2022-03-26",
     "owner": "권상희"
   },
   {
@@ -4424,7 +4424,7 @@
     "buildingPrice": "8230000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2003-09-12",
+    "confirmDate": "2003-09-12",
     "owner": "윤웅로"
   },
   {
@@ -4436,7 +4436,7 @@
     "buildingPrice": "669000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2011-07-11",
+    "confirmDate": "2011-07-11",
     "owner": "손병현"
   },
   {
@@ -4448,7 +4448,7 @@
     "buildingPrice": "547000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2008-06-16",
+    "confirmDate": "2008-06-16",
     "owner": "이종례"
   },
   {
@@ -4460,7 +4460,7 @@
     "buildingPrice": "7930000",
     "floorInfo": "7",
     "roomCount": "3",
-    "comfirmDate": "2012-04-16",
+    "confirmDate": "2012-04-16",
     "owner": "김연숙"
   },
   {
@@ -4472,7 +4472,7 @@
     "buildingPrice": "911000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2022-02-02",
+    "confirmDate": "2022-02-02",
     "owner": "박승철"
   },
   {
@@ -4484,7 +4484,7 @@
     "buildingPrice": "298000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2009-05-13",
+    "confirmDate": "2009-05-13",
     "owner": "최동완"
   },
   {
@@ -4496,7 +4496,7 @@
     "buildingPrice": "481000",
     "floorInfo": "13",
     "roomCount": "3",
-    "comfirmDate": "2006-06-02",
+    "confirmDate": "2006-06-02",
     "owner": "오금순"
   },
   {
@@ -4508,7 +4508,7 @@
     "buildingPrice": "880000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2022-05-05",
+    "confirmDate": "2022-05-05",
     "owner": "서진하"
   },
   {
@@ -4520,7 +4520,7 @@
     "buildingPrice": "176000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2009-12-10",
+    "confirmDate": "2009-12-10",
     "owner": "한태준"
   },
   {
@@ -4532,7 +4532,7 @@
     "buildingPrice": "367000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2002-12-13",
+    "confirmDate": "2002-12-13",
     "owner": "황미영"
   },
   {
@@ -4544,7 +4544,7 @@
     "buildingPrice": "426000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2017-07-29",
+    "confirmDate": "2017-07-29",
     "owner": "전명희"
   },
   {
@@ -4556,7 +4556,7 @@
     "buildingPrice": "5590000",
     "floorInfo": "7",
     "roomCount": "2",
-    "comfirmDate": "2009-12-19",
+    "confirmDate": "2009-12-19",
     "owner": "한경희"
   },
   {
@@ -4568,7 +4568,7 @@
     "buildingPrice": "494000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2021-07-25",
+    "confirmDate": "2021-07-25",
     "owner": "이문웅"
   },
   {
@@ -4580,7 +4580,7 @@
     "buildingPrice": "4010000",
     "floorInfo": "4",
     "roomCount": "3",
-    "comfirmDate": "2002-08-07",
+    "confirmDate": "2002-08-07",
     "owner": "최정"
   },
   {
@@ -4592,7 +4592,7 @@
     "buildingPrice": "579000",
     "floorInfo": "6",
     "roomCount": "4",
-    "comfirmDate": "2004-07-30",
+    "confirmDate": "2004-07-30",
     "owner": "박세령"
   },
   {
@@ -4604,7 +4604,7 @@
     "buildingPrice": "834000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2013-04-02",
+    "confirmDate": "2013-04-02",
     "owner": "박성식"
   },
   {
@@ -4616,7 +4616,7 @@
     "buildingPrice": "305000",
     "floorInfo": "2",
     "roomCount": "1",
-    "comfirmDate": "2009-11-11",
+    "confirmDate": "2009-11-11",
     "owner": "조미경"
   },
   {
@@ -4628,7 +4628,7 @@
     "buildingPrice": "8780000",
     "floorInfo": "9",
     "roomCount": "3",
-    "comfirmDate": "2020-05-09",
+    "confirmDate": "2020-05-09",
     "owner": "김항근"
   },
   {
@@ -4640,7 +4640,7 @@
     "buildingPrice": "1220000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2016-10-11",
+    "confirmDate": "2016-10-11",
     "owner": "박찬협"
   },
   {
@@ -4652,7 +4652,7 @@
     "buildingPrice": "1850000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2013-10-22",
+    "confirmDate": "2013-10-22",
     "owner": "조광웅"
   },
   {
@@ -4664,7 +4664,7 @@
     "buildingPrice": "161000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2021-03-18",
+    "confirmDate": "2021-03-18",
     "owner": "류태원"
   },
   {
@@ -4676,7 +4676,7 @@
     "buildingPrice": "4950000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2014-02-25",
+    "confirmDate": "2014-02-25",
     "owner": "강지훈"
   },
   {
@@ -4688,7 +4688,7 @@
     "buildingPrice": "764000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2003-11-15",
+    "confirmDate": "2003-11-15",
     "owner": "박홍숙"
   },
   {
@@ -4700,7 +4700,7 @@
     "buildingPrice": "4780000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2010-02-09",
+    "confirmDate": "2010-02-09",
     "owner": "주영숙"
   },
   {
@@ -4712,7 +4712,7 @@
     "buildingPrice": "144000",
     "floorInfo": "10",
     "roomCount": "4",
-    "comfirmDate": "2018-05-19",
+    "confirmDate": "2018-05-19",
     "owner": "최순예"
   },
   {
@@ -4724,7 +4724,7 @@
     "buildingPrice": "9930000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2007-04-14",
+    "confirmDate": "2007-04-14",
     "owner": "김수진"
   },
   {
@@ -4736,7 +4736,7 @@
     "buildingPrice": "898000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2016-12-03",
+    "confirmDate": "2016-12-03",
     "owner": "최인철"
   },
   {
@@ -4748,7 +4748,7 @@
     "buildingPrice": "9460000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2015-11-06",
+    "confirmDate": "2015-11-06",
     "owner": "이준석"
   },
   {
@@ -4760,7 +4760,7 @@
     "buildingPrice": "507000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2002-12-06",
+    "confirmDate": "2002-12-06",
     "owner": "이정훈"
   },
   {
@@ -4772,7 +4772,7 @@
     "buildingPrice": "4520000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2020-05-04",
+    "confirmDate": "2020-05-04",
     "owner": "장병업"
   },
   {
@@ -4784,7 +4784,7 @@
     "buildingPrice": "103000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2016-12-24",
+    "confirmDate": "2016-12-24",
     "owner": "이진선"
   },
   {
@@ -4796,7 +4796,7 @@
     "buildingPrice": "2520000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2018-03-17",
+    "confirmDate": "2018-03-17",
     "owner": "박둘선"
   },
   {
@@ -4808,7 +4808,7 @@
     "buildingPrice": "6180000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2015-10-13",
+    "confirmDate": "2015-10-13",
     "owner": "김장희"
   },
   {
@@ -4820,7 +4820,7 @@
     "buildingPrice": "2080000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2015-10-20",
+    "confirmDate": "2015-10-20",
     "owner": "김경화"
   },
   {
@@ -4832,7 +4832,7 @@
     "buildingPrice": "3700000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2011-05-24",
+    "confirmDate": "2011-05-24",
     "owner": "김갑태"
   },
   {
@@ -4844,7 +4844,7 @@
     "buildingPrice": "6700000",
     "floorInfo": "6",
     "roomCount": "3",
-    "comfirmDate": "2015-07-26",
+    "confirmDate": "2015-07-26",
     "owner": "최수운"
   },
   {
@@ -4856,7 +4856,7 @@
     "buildingPrice": "725000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2022-10-22",
+    "confirmDate": "2022-10-22",
     "owner": "류인범"
   },
   {
@@ -4868,7 +4868,7 @@
     "buildingPrice": "6840000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2000-12-09",
+    "confirmDate": "2000-12-09",
     "owner": "장영철"
   },
   {
@@ -4880,7 +4880,7 @@
     "buildingPrice": "6660000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2012-05-07",
+    "confirmDate": "2012-05-07",
     "owner": "유미탁"
   },
   {
@@ -4892,7 +4892,7 @@
     "buildingPrice": "455000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2022-10-04",
+    "confirmDate": "2022-10-04",
     "owner": "송경희"
   },
   {
@@ -4904,7 +4904,7 @@
     "buildingPrice": "6940000",
     "floorInfo": "10",
     "roomCount": "4",
-    "comfirmDate": "2022-10-13",
+    "confirmDate": "2022-10-13",
     "owner": "임영훈"
   },
   {
@@ -4916,7 +4916,7 @@
     "buildingPrice": "6070000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2018-09-09",
+    "confirmDate": "2018-09-09",
     "owner": "정문일"
   },
   {
@@ -4928,7 +4928,7 @@
     "buildingPrice": "912000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2010-11-27",
+    "confirmDate": "2010-11-27",
     "owner": "임종윤"
   },
   {
@@ -4940,7 +4940,7 @@
     "buildingPrice": "814000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2011-10-19",
+    "confirmDate": "2011-10-19",
     "owner": "민송기"
   },
   {
@@ -4952,7 +4952,7 @@
     "buildingPrice": "758000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2011-07-24",
+    "confirmDate": "2011-07-24",
     "owner": "김민석"
   },
   {
@@ -4964,7 +4964,7 @@
     "buildingPrice": "482000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2003-10-21",
+    "confirmDate": "2003-10-21",
     "owner": "도영희"
   },
   {
@@ -4976,7 +4976,7 @@
     "buildingPrice": "2510000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2022-04-30",
+    "confirmDate": "2022-04-30",
     "owner": "김경식"
   },
   {
@@ -4988,7 +4988,7 @@
     "buildingPrice": "1840000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2000-09-28",
+    "confirmDate": "2000-09-28",
     "owner": "손중호"
   },
   {
@@ -5000,7 +5000,7 @@
     "buildingPrice": "120000",
     "floorInfo": "2",
     "roomCount": "3",
-    "comfirmDate": "2017-03-18",
+    "confirmDate": "2017-03-18",
     "owner": "오만수"
   },
   {
@@ -5012,7 +5012,7 @@
     "buildingPrice": "7070000",
     "floorInfo": "4",
     "roomCount": "3",
-    "comfirmDate": "2023-11-25",
+    "confirmDate": "2023-11-25",
     "owner": "오재성"
   },
   {
@@ -5024,7 +5024,7 @@
     "buildingPrice": "149000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2023-03-05",
+    "confirmDate": "2023-03-05",
     "owner": "온자희"
   },
   {
@@ -5036,7 +5036,7 @@
     "buildingPrice": "459000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2004-10-03",
+    "confirmDate": "2004-10-03",
     "owner": "김동일"
   },
   {
@@ -5048,7 +5048,7 @@
     "buildingPrice": "9970000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2001-07-20",
+    "confirmDate": "2001-07-20",
     "owner": "하연애"
   },
   {
@@ -5060,7 +5060,7 @@
     "buildingPrice": "643000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2014-07-18",
+    "confirmDate": "2014-07-18",
     "owner": "박월진"
   },
   {
@@ -5072,7 +5072,7 @@
     "buildingPrice": "6170000",
     "floorInfo": "8",
     "roomCount": "4",
-    "comfirmDate": "2000-04-03",
+    "confirmDate": "2000-04-03",
     "owner": "서혜정"
   },
   {
@@ -5084,7 +5084,7 @@
     "buildingPrice": "364000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2018-07-07",
+    "confirmDate": "2018-07-07",
     "owner": "박상현"
   },
   {
@@ -5096,7 +5096,7 @@
     "buildingPrice": "498000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2010-06-18",
+    "confirmDate": "2010-06-18",
     "owner": "윤형선"
   },
   {
@@ -5108,7 +5108,7 @@
     "buildingPrice": "645000",
     "floorInfo": "4",
     "roomCount": "4",
-    "comfirmDate": "2004-03-24",
+    "confirmDate": "2004-03-24",
     "owner": "고다해"
   },
   {
@@ -5120,7 +5120,7 @@
     "buildingPrice": "367000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2022-06-03",
+    "confirmDate": "2022-06-03",
     "owner": "유혜정"
   },
   {
@@ -5132,7 +5132,7 @@
     "buildingPrice": "580000",
     "floorInfo": "7",
     "roomCount": "2",
-    "comfirmDate": "2007-03-31",
+    "confirmDate": "2007-03-31",
     "owner": "최현정"
   },
   {
@@ -5144,7 +5144,7 @@
     "buildingPrice": "5470000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2000-05-07",
+    "confirmDate": "2000-05-07",
     "owner": "권애영"
   },
   {
@@ -5156,7 +5156,7 @@
     "buildingPrice": "7580000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2002-02-28",
+    "confirmDate": "2002-02-28",
     "owner": "임은혜"
   },
   {
@@ -5168,7 +5168,7 @@
     "buildingPrice": "239000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2009-02-07",
+    "confirmDate": "2009-02-07",
     "owner": "김벽호"
   },
   {
@@ -5180,7 +5180,7 @@
     "buildingPrice": "135000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2001-01-13",
+    "confirmDate": "2001-01-13",
     "owner": "최병오"
   },
   {
@@ -5192,7 +5192,7 @@
     "buildingPrice": "6130000",
     "floorInfo": "14",
     "roomCount": "1",
-    "comfirmDate": "2022-08-20",
+    "confirmDate": "2022-08-20",
     "owner": "박희정"
   },
   {
@@ -5204,7 +5204,7 @@
     "buildingPrice": "475000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2006-02-15",
+    "confirmDate": "2006-02-15",
     "owner": "김순진"
   },
   {
@@ -5216,7 +5216,7 @@
     "buildingPrice": "217000",
     "floorInfo": "5",
     "roomCount": "3",
-    "comfirmDate": "2020-07-29",
+    "confirmDate": "2020-07-29",
     "owner": "이희만"
   },
   {
@@ -5228,7 +5228,7 @@
     "buildingPrice": "197000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2015-03-04",
+    "confirmDate": "2015-03-04",
     "owner": "서금숙"
   },
   {
@@ -5240,7 +5240,7 @@
     "buildingPrice": "7820000",
     "floorInfo": "3",
     "roomCount": "3",
-    "comfirmDate": "2005-10-02",
+    "confirmDate": "2005-10-02",
     "owner": "이영석"
   },
   {
@@ -5252,7 +5252,7 @@
     "buildingPrice": "9750000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2014-02-24",
+    "confirmDate": "2014-02-24",
     "owner": "양유진"
   },
   {
@@ -5264,7 +5264,7 @@
     "buildingPrice": "331000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2018-09-23",
+    "confirmDate": "2018-09-23",
     "owner": "최진호"
   },
   {
@@ -5276,7 +5276,7 @@
     "buildingPrice": "5220000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2005-11-13",
+    "confirmDate": "2005-11-13",
     "owner": "김소영"
   },
   {
@@ -5288,7 +5288,7 @@
     "buildingPrice": "863000",
     "floorInfo": "11",
     "roomCount": "3",
-    "comfirmDate": "2009-10-30",
+    "confirmDate": "2009-10-30",
     "owner": "박미선"
   },
   {
@@ -5300,7 +5300,7 @@
     "buildingPrice": "5020000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2013-11-10",
+    "confirmDate": "2013-11-10",
     "owner": "박진희"
   },
   {
@@ -5312,7 +5312,7 @@
     "buildingPrice": "917000",
     "floorInfo": "6",
     "roomCount": "1",
-    "comfirmDate": "2003-10-28",
+    "confirmDate": "2003-10-28",
     "owner": "김선덕"
   },
   {
@@ -5324,7 +5324,7 @@
     "buildingPrice": "2380000",
     "floorInfo": "1",
     "roomCount": "2",
-    "comfirmDate": "2009-05-20",
+    "confirmDate": "2009-05-20",
     "owner": "김만홍"
   },
   {
@@ -5336,7 +5336,7 @@
     "buildingPrice": "6050000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2011-08-23",
+    "confirmDate": "2011-08-23",
     "owner": "하은미"
   },
   {
@@ -5348,7 +5348,7 @@
     "buildingPrice": "919000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2013-07-28",
+    "confirmDate": "2013-07-28",
     "owner": "이지예"
   },
   {
@@ -5360,7 +5360,7 @@
     "buildingPrice": "713000",
     "floorInfo": "10",
     "roomCount": "4",
-    "comfirmDate": "2009-01-08",
+    "confirmDate": "2009-01-08",
     "owner": "김덕우"
   },
   {
@@ -5372,7 +5372,7 @@
     "buildingPrice": "2010000",
     "floorInfo": "7",
     "roomCount": "4",
-    "comfirmDate": "2024-06-27",
+    "confirmDate": "2024-06-27",
     "owner": "권영란"
   },
   {
@@ -5384,7 +5384,7 @@
     "buildingPrice": "883000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2023-05-14",
+    "confirmDate": "2023-05-14",
     "owner": "박병석"
   },
   {
@@ -5396,7 +5396,7 @@
     "buildingPrice": "727000",
     "floorInfo": "6",
     "roomCount": "2",
-    "comfirmDate": "2022-10-04",
+    "confirmDate": "2022-10-04",
     "owner": "이준희"
   },
   {
@@ -5408,7 +5408,7 @@
     "buildingPrice": "2020000",
     "floorInfo": "15",
     "roomCount": "1",
-    "comfirmDate": "2010-05-20",
+    "confirmDate": "2010-05-20",
     "owner": "황우진"
   },
   {
@@ -5420,7 +5420,7 @@
     "buildingPrice": "2100000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2013-05-07",
+    "confirmDate": "2013-05-07",
     "owner": "전순례"
   },
   {
@@ -5432,7 +5432,7 @@
     "buildingPrice": "498000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2010-09-19",
+    "confirmDate": "2010-09-19",
     "owner": "송병두"
   },
   {
@@ -5444,7 +5444,7 @@
     "buildingPrice": "929000",
     "floorInfo": "10",
     "roomCount": "1",
-    "comfirmDate": "2021-10-25",
+    "confirmDate": "2021-10-25",
     "owner": "이원호"
   },
   {
@@ -5456,7 +5456,7 @@
     "buildingPrice": "6520000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2003-01-24",
+    "confirmDate": "2003-01-24",
     "owner": "김택수"
   },
   {
@@ -5468,7 +5468,7 @@
     "buildingPrice": "6400000",
     "floorInfo": "5",
     "roomCount": "2",
-    "comfirmDate": "2023-02-22",
+    "confirmDate": "2023-02-22",
     "owner": "김효원"
   },
   {
@@ -5480,7 +5480,7 @@
     "buildingPrice": "5750000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2024-05-22",
+    "confirmDate": "2024-05-22",
     "owner": "공주영"
   },
   {
@@ -5492,7 +5492,7 @@
     "buildingPrice": "432000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2020-07-14",
+    "confirmDate": "2020-07-14",
     "owner": "권향자"
   },
   {
@@ -5504,7 +5504,7 @@
     "buildingPrice": "6710000",
     "floorInfo": "12",
     "roomCount": "1",
-    "comfirmDate": "2018-07-25",
+    "confirmDate": "2018-07-25",
     "owner": "염경애"
   },
   {
@@ -5516,7 +5516,7 @@
     "buildingPrice": "9250000",
     "floorInfo": "4",
     "roomCount": "4",
-    "comfirmDate": "2006-06-03",
+    "confirmDate": "2006-06-03",
     "owner": "김교현"
   },
   {
@@ -5528,7 +5528,7 @@
     "buildingPrice": "688000",
     "floorInfo": "11",
     "roomCount": "1",
-    "comfirmDate": "2019-11-03",
+    "confirmDate": "2019-11-03",
     "owner": "김민수"
   },
   {
@@ -5540,7 +5540,7 @@
     "buildingPrice": "8730000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2016-02-20",
+    "confirmDate": "2016-02-20",
     "owner": "이영이"
   },
   {
@@ -5552,7 +5552,7 @@
     "buildingPrice": "4170000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2024-08-02",
+    "confirmDate": "2024-08-02",
     "owner": "신유범"
   },
   {
@@ -5564,7 +5564,7 @@
     "buildingPrice": "8340000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2017-04-23",
+    "confirmDate": "2017-04-23",
     "owner": "양현숙"
   },
   {
@@ -5576,7 +5576,7 @@
     "buildingPrice": "1610000",
     "floorInfo": "13",
     "roomCount": "2",
-    "comfirmDate": "2005-05-23",
+    "confirmDate": "2005-05-23",
     "owner": "이정미"
   },
   {
@@ -5588,7 +5588,7 @@
     "buildingPrice": "615000",
     "floorInfo": "12",
     "roomCount": "4",
-    "comfirmDate": "2006-12-05",
+    "confirmDate": "2006-12-05",
     "owner": "유태설"
   },
   {
@@ -5600,7 +5600,7 @@
     "buildingPrice": "5800000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2005-06-05",
+    "confirmDate": "2005-06-05",
     "owner": "이미희"
   },
   {
@@ -5612,7 +5612,7 @@
     "buildingPrice": "510000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2022-11-18",
+    "confirmDate": "2022-11-18",
     "owner": "박장규"
   },
   {
@@ -5624,7 +5624,7 @@
     "buildingPrice": "9940000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2017-06-14",
+    "confirmDate": "2017-06-14",
     "owner": "정현애"
   },
   {
@@ -5636,7 +5636,7 @@
     "buildingPrice": "5870000",
     "floorInfo": "4",
     "roomCount": "2",
-    "comfirmDate": "2021-09-08",
+    "confirmDate": "2021-09-08",
     "owner": "김양선"
   },
   {
@@ -5648,7 +5648,7 @@
     "buildingPrice": "4980000",
     "floorInfo": "5",
     "roomCount": "4",
-    "comfirmDate": "2004-05-26",
+    "confirmDate": "2004-05-26",
     "owner": "이종규"
   },
   {
@@ -5660,7 +5660,7 @@
     "buildingPrice": "2810000",
     "floorInfo": "15",
     "roomCount": "3",
-    "comfirmDate": "2018-10-03",
+    "confirmDate": "2018-10-03",
     "owner": "박병일"
   },
   {
@@ -5672,7 +5672,7 @@
     "buildingPrice": "804000",
     "floorInfo": "4",
     "roomCount": "4",
-    "comfirmDate": "2008-07-12",
+    "confirmDate": "2008-07-12",
     "owner": "이형수"
   },
   {
@@ -5684,7 +5684,7 @@
     "buildingPrice": "273000",
     "floorInfo": "12",
     "roomCount": "2",
-    "comfirmDate": "2005-04-11",
+    "confirmDate": "2005-04-11",
     "owner": "박예림"
   },
   {
@@ -5696,7 +5696,7 @@
     "buildingPrice": "900000",
     "floorInfo": "14",
     "roomCount": "4",
-    "comfirmDate": "2002-02-11",
+    "confirmDate": "2002-02-11",
     "owner": "김종제"
   },
   {
@@ -5708,7 +5708,7 @@
     "buildingPrice": "2000000",
     "floorInfo": "7",
     "roomCount": "1",
-    "comfirmDate": "2014-04-20",
+    "confirmDate": "2014-04-20",
     "owner": "이정재"
   },
   {
@@ -5720,7 +5720,7 @@
     "buildingPrice": "7680000",
     "floorInfo": "15",
     "roomCount": "4",
-    "comfirmDate": "2015-11-21",
+    "confirmDate": "2015-11-21",
     "owner": "여지영"
   },
   {
@@ -5732,7 +5732,7 @@
     "buildingPrice": "365000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2011-05-03",
+    "confirmDate": "2011-05-03",
     "owner": "채시라"
   },
   {
@@ -5744,7 +5744,7 @@
     "buildingPrice": "1280000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2009-03-24",
+    "confirmDate": "2009-03-24",
     "owner": "김윤"
   },
   {
@@ -5756,7 +5756,7 @@
     "buildingPrice": "598000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2006-08-10",
+    "confirmDate": "2006-08-10",
     "owner": "박봉성"
   },
   {
@@ -5768,7 +5768,7 @@
     "buildingPrice": "9300000",
     "floorInfo": "9",
     "roomCount": "4",
-    "comfirmDate": "2001-04-24",
+    "confirmDate": "2001-04-24",
     "owner": "최연운"
   },
   {
@@ -5780,7 +5780,7 @@
     "buildingPrice": "345000",
     "floorInfo": "14",
     "roomCount": "3",
-    "comfirmDate": "2009-12-12",
+    "confirmDate": "2009-12-12",
     "owner": "조수빈"
   },
   {
@@ -5792,7 +5792,7 @@
     "buildingPrice": "408000",
     "floorInfo": "15",
     "roomCount": "2",
-    "comfirmDate": "2016-03-22",
+    "confirmDate": "2016-03-22",
     "owner": "이은걸"
   },
   {
@@ -5804,7 +5804,7 @@
     "buildingPrice": "548000",
     "floorInfo": "2",
     "roomCount": "4",
-    "comfirmDate": "2019-04-04",
+    "confirmDate": "2019-04-04",
     "owner": "김대성"
   },
   {
@@ -5816,7 +5816,7 @@
     "buildingPrice": "7810000",
     "floorInfo": "1",
     "roomCount": "4",
-    "comfirmDate": "2012-11-03",
+    "confirmDate": "2012-11-03",
     "owner": "주세경"
   },
   {
@@ -5828,7 +5828,7 @@
     "buildingPrice": "844000",
     "floorInfo": "14",
     "roomCount": "2",
-    "comfirmDate": "2022-10-16",
+    "confirmDate": "2022-10-16",
     "owner": "전경우"
   },
   {
@@ -5840,7 +5840,7 @@
     "buildingPrice": "6690000",
     "floorInfo": "13",
     "roomCount": "4",
-    "comfirmDate": "2002-09-03",
+    "confirmDate": "2002-09-03",
     "owner": "김현순"
   },
   {
@@ -5852,7 +5852,7 @@
     "buildingPrice": "3540000",
     "floorInfo": "11",
     "roomCount": "2",
-    "comfirmDate": "2006-09-21",
+    "confirmDate": "2006-09-21",
     "owner": "주순자"
   },
   {
@@ -5864,7 +5864,7 @@
     "buildingPrice": "803000",
     "floorInfo": "3",
     "roomCount": "4",
-    "comfirmDate": "2022-05-11",
+    "confirmDate": "2022-05-11",
     "owner": "이미란"
   },
   {
@@ -5876,7 +5876,7 @@
     "buildingPrice": "8620000",
     "floorInfo": "11",
     "roomCount": "4",
-    "comfirmDate": "2004-04-26",
+    "confirmDate": "2004-04-26",
     "owner": "고정주"
   },
   {
@@ -5888,7 +5888,7 @@
     "buildingPrice": "232000",
     "floorInfo": "3",
     "roomCount": "2",
-    "comfirmDate": "2001-02-24",
+    "confirmDate": "2001-02-24",
     "owner": "정세진"
   },
   {
@@ -5900,7 +5900,7 @@
     "buildingPrice": "804000",
     "floorInfo": "13",
     "roomCount": "1",
-    "comfirmDate": "2007-04-05",
+    "confirmDate": "2007-04-05",
     "owner": "서승옥"
   },
   {
@@ -5912,7 +5912,7 @@
     "buildingPrice": "847000",
     "floorInfo": "8",
     "roomCount": "3",
-    "comfirmDate": "2024-02-21",
+    "confirmDate": "2024-02-21",
     "owner": "김동환"
   },
   {
@@ -5924,7 +5924,7 @@
     "buildingPrice": "409000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2006-01-02",
+    "confirmDate": "2006-01-02",
     "owner": "석진란"
   },
   {
@@ -5936,7 +5936,7 @@
     "buildingPrice": "7890000",
     "floorInfo": "2",
     "roomCount": "2",
-    "comfirmDate": "2019-12-01",
+    "confirmDate": "2019-12-01",
     "owner": "나인수"
   },
   {
@@ -5948,7 +5948,7 @@
     "buildingPrice": "8960000",
     "floorInfo": "12",
     "roomCount": "3",
-    "comfirmDate": "2003-07-29",
+    "confirmDate": "2003-07-29",
     "owner": "최수영"
   },
   {
@@ -5960,7 +5960,7 @@
     "buildingPrice": "197000",
     "floorInfo": "8",
     "roomCount": "1",
-    "comfirmDate": "2006-05-28",
+    "confirmDate": "2006-05-28",
     "owner": "임미경"
   },
   {
@@ -5972,7 +5972,7 @@
     "buildingPrice": "758000",
     "floorInfo": "1",
     "roomCount": "1",
-    "comfirmDate": "2017-12-16",
+    "confirmDate": "2017-12-16",
     "owner": "최은정"
   },
   {
@@ -5984,7 +5984,7 @@
     "buildingPrice": "401000",
     "floorInfo": "8",
     "roomCount": "2",
-    "comfirmDate": "2004-03-05",
+    "confirmDate": "2004-03-05",
     "owner": "전우진"
   },
   {
@@ -5996,7 +5996,7 @@
     "buildingPrice": "305000",
     "floorInfo": "5",
     "roomCount": "1",
-    "comfirmDate": "2005-08-11",
+    "confirmDate": "2005-08-11",
     "owner": "유병삼"
   }
 ]
