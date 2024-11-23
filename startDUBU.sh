@@ -21,6 +21,7 @@ export CORE_PEER_ADDRESS=localhost:7051
 ./network.sh deployCC -ccn agentInfo -ccp chaincode/agentInfo -ccl go
 ./network.sh deployCC -ccn buildingInfo -ccp chaincode/buildingInfo -ccl go
 ./network.sh deployCC -ccn bank -ccp chaincode/bank -ccl go
+./network.sh deployCC -ccn contract -ccp chaincode/contract -ccl go
 
 
 # Set env for Org3
@@ -32,7 +33,7 @@ export CORE_PEER_ADDRESS=localhost:11051
 # Install the chaincode(nationalID)
 peer lifecycle chaincode package nationalID.tar.gz --path chaincode/nationalID --lang golang --label nationalID_1.0.1
 peer lifecycle chaincode install nationalID.tar.gz
-peer lifecycle chaincode queryinstalled
+# peer lifecycle chaincode queryinstalled
 export CC_PACKAGE_ID=$(peer lifecycle chaincode calculatepackageid nationalID.tar.gz)
 echo "CC_PACKAGE_ID is set to: $CC_PACKAGE_ID"
 peer lifecycle chaincode approveformyorg -o localhost:7050 \
@@ -75,6 +76,17 @@ peer lifecycle chaincode approveformyorg -o localhost:7050 \
 --ordererTLSHostnameOverride orderer.dubu.com \
 --tls --cafile "/home/superDUBU/hyperledger/dubunet/dubu/organizations/ordererOrganizations/dubu.com/orderers/orderer.dubu.com/msp/tlscacerts/tlsca.dubu.com-cert.pem" \
 --channelID dubu --name bank --version 1.0.1 --package-id $CC_PACKAGE_ID --sequence 1
+
+# Install the chaincode(contract)
+peer lifecycle chaincode package contract.tar.gz --path chaincode/contract --lang golang --label contract_1.0.1
+peer lifecycle chaincode install contract.tar.gz
+peer lifecycle chaincode queryinstalled
+export CC_PACKAGE_ID=$(peer lifecycle chaincode calculatepackageid contract.tar.gz)
+echo "CC_PACKAGE_ID is set to: $CC_PACKAGE_ID"
+peer lifecycle chaincode approveformyorg -o localhost:7050 \
+--ordererTLSHostnameOverride orderer.dubu.com \
+--tls --cafile "/home/superDUBU/hyperledger/dubunet/dubu/organizations/ordererOrganizations/dubu.com/orderers/orderer.dubu.com/msp/tlscacerts/tlsca.dubu.com-cert.pem" \
+--channelID dubu --name contract --version 1.0.1 --package-id $CC_PACKAGE_ID --sequence 1
 
 # Copy json file
 ID1=$(docker ps -f "name=^dev-peer0.org1.dubu.com-nationalID" --format "{{.ID}}")
