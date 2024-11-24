@@ -69,7 +69,11 @@ func (s *SmartContract) CreateContract(ctx contractapi.TransactionContextInterfa
 
     // SHA256 해시 계산
     hash := sha256.New()
-    hash.Write([]byte(temp + time.Now())) // 문자열을 바이트 배열로 변환하여 입력
+    str1 := []byte(temp)
+    str2 := []byte(time.Now().Format(time.RFC3339))
+    hash.Write(str1) // 문자열을 바이트 배열로 변환하여 입력
+    hash.Write(str2) // 문자열을 바이트 배열로 변환하여 입력
+	
     hashBytes := hash.Sum(nil)
 
     // 결과를 16진수 문자열로 출력
@@ -77,6 +81,7 @@ func (s *SmartContract) CreateContract(ctx contractapi.TransactionContextInterfa
 
     // 앞 10자리 추출
     shortHash := hashBase64[:10]
+    data.TxID = shortHash
     exists, err := s.ContractExists(ctx, shortHash)
     if err != nil {
         return err
@@ -95,7 +100,7 @@ func (s *SmartContract) CreateContract(ctx contractapi.TransactionContextInterfa
         return fmt.Errorf("Failed to create event: %v", err)
     }
 
-    err = ctx.GetStub().SetEvent("CreatebankTxComplete", assetJSON)
+    err = ctx.GetStub().SetEvent("CreateTxComplete", assetJSON)
     if err != nil {
         return fmt.Errorf("Failed to create event: %v", err)
     }
@@ -133,6 +138,7 @@ func (s *SmartContract) UpdateContract(ctx contractapi.TransactionContextInterfa
     }
 
     var asset Contract
+    err = json.Unmarshal(assetJSON, &asset)
     asset.ItemInfo.Status = "COMMITED"
 
     assetJSON, err = json.Marshal(asset)
