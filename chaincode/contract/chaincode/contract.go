@@ -145,6 +145,10 @@ func (s *SmartContract) UpdateContract(ctx contractapi.TransactionContextInterfa
     if err != nil {
         return err
     }
+    err = ctx.GetStub().SetEvent("CreatebankTxComplete", assetJSON)
+    if err != nil {
+        return fmt.Errorf("Failed to create event: %v", err)
+    }
 
     return ctx.GetStub().PutState(id, assetJSON)
 }
